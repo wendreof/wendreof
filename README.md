@@ -30,7 +30,7 @@
 <tr>
 <td align="center" width="20%">
 <span><b><center>Java</center></b></span> 
-<img height=65px src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png""> 
+<img height=65px src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"> 
 </td>
 
 <td align="center" width="20%">
