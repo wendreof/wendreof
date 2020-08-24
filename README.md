@@ -38,9 +38,10 @@
 <img height=65px src="https://img.icons8.com/ios-glyphs/2x/github-2.png"> 
 </td>
 
+
 <td align="center" width="20%">
-<span><b><center>Python</center></b></span> 
-<img height=65px src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"> 
+<span><b><center>Git</center></b></span> 
+<img height=65px src="https://img.icons8.com/color/48/000000/kotlin.png"> 
 </td>
 </tr>
 
