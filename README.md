@@ -40,7 +40,7 @@
 
 <td align="center" width="20%">
 <span><b><center>Python</center></b></span> 
-<img height=65px src="https://img.icons8.com/color/2x/python.png"> 
+<img height=65px src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"> 
 </td>
 </tr>
 
