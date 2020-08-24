@@ -1,7 +1,5 @@
 <h2 align="center"> Hi, I'm Wendreo! 👋 <br/> </h2> 
 
-<p align="center"><img width=50% src="https://wompampsupport.azureedge.net/fetchimage?siteId=7575&v=2&jpgQuality=100&width=700&url=https%3A%2F%2Fi.kym-cdn.com%2Fentries%2Ficons%2Ffacebook%2F000%2F021%2F807%2Fig9OoyenpxqdCQyABmOQBZDI0duHk2QZZmWg2Hxd4ro.jpg"></p>
-
 <p align="center"> <samp>Hi, My name is Wendreo Fernandes. I am a Flutter Developer | Mobile Application Specialist | IT Analyst at CREDISAN </p>
   
   
@@ -13,7 +11,8 @@
  <tr>
 <td align="center" width="20%">
 <span><b><center>ReactJS</center></b></span> 
-<img height=60px src="https://img.icons8.com/ultraviolet/2x/react.png"> 
+<!--<img height=60px src="https://img.icons8.com/ultraviolet/2x/react.png"> -->
+  <img src="https://img.icons8.com/color/48/000000/flutter.png"/>
 </td>
 
 <td align="center" width="20%">
