@@ -9,16 +9,16 @@
 <table>
 <tbody>
  <tr>
-<td align="center" width="20%">
-<span><b><center>Flutter</center></b></span> 
-<!--<img height=60px src="https://img.icons8.com/ultraviolet/2x/react.png"> -->
-  <img src="https://img.icons8.com/color/48/000000/flutter.png"/>
-</td>
 
 <td align="center" width="20%">
 <span><b><center>.NET</center></b></span> 
 <img height=60px src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"> 
   
+</td>
+
+<td align="center" width="20%">
+<span><b><center>Flutter</center></b></span> 
+<img height=65px src="https://img.icons8.com/color/2x/flutter.png"> 
 </td>
 
 <td align="center" width="20%">
@@ -29,8 +29,8 @@
 
 <tr>
 <td align="center" width="20%">
-<span><b><center>MATLAB</center></b></span> 
-<img height=65px src="https://img.icons8.com/nolan/2x/matlab.png"> 
+<span><b><center>Java</center></b></span> 
+<img height=65px src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png""> 
 </td>
 
 <td align="center" width="20%">
@@ -57,10 +57,7 @@
 
 
 
-<td align="center" width="20%">
-<span><b><center>Flutter</center></b></span> 
-<img height=65px src="https://img.icons8.com/color/2x/flutter.png"> 
-</td>
+
 </tr>
 
 <tr>
