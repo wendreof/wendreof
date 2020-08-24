@@ -10,14 +10,15 @@
 <tbody>
  <tr>
 <td align="center" width="20%">
-<span><b><center>ReactJS</center></b></span> 
+<span><b><center>Flutter</center></b></span> 
 <!--<img height=60px src="https://img.icons8.com/ultraviolet/2x/react.png"> -->
   <img src="https://img.icons8.com/color/48/000000/flutter.png"/>
 </td>
 
 <td align="center" width="20%">
-<span><b><center>Swift</center></b></span> 
-<img height=60px src="https://img.icons8.com/fluent/96/swift.png"> 
+<span><b><center>.NET</center></b></span> 
+<img height=60px src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"> 
+  
 </td>
 
 <td align="center" width="20%">
