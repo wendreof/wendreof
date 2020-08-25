@@ -31,12 +31,19 @@
 <span><b><center>Java</center></b></span> 
 <img height=65px src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo.png"> 
 </td>
+  
+<td align="center" width="20%">
+<span><b><center>Kotlin</center></b></span> 
+<img height=65px src="https://img.icons8.com/color/48/000000/kotlin.png"> 
+</td>
+ 
 
 <td align="center" width="20%">
 <span><b><center>Git</center></b></span> 
 <img height=65px src="https://img.icons8.com/color/48/000000/git.png"> 
 </td>
 
+<tr>
 <td align="center" width="20%">
 <span><b><center>Bash</center></b></span> 
 <img height=65px src="https://img.icons8.com/fluent/48/000000/console.png"> 
