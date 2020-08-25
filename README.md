@@ -12,7 +12,7 @@
 
 <td align="center" width="20%">
 <span><b><center>.NET</center></b></span> 
-<img height=60px src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"> 
+<img height=65px src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"> 
   
 </td>
 
@@ -37,11 +37,10 @@
 <img height=65px src="https://img.icons8.com/color/48/000000/git.png"> 
 </td>
 
-
-<tr>
 <td align="center" width="20%">
 <span><b><center>Bash</center></b></span> 
-<img height=65px src="https://img.icons8.com/bubbles/2x/console.png"> 
+<img height=65px src="https://img.icons8.com/fluent/48/000000/console.png"> 
+  
 </td>
 
 
