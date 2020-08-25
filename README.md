@@ -35,7 +35,7 @@
 
 <td align="center" width="20%">
 <span><b><center>Git</center></b></span> 
-<img height=65px src="https://img.icons8.com/ios-glyphs/2x/github-2.png"> 
+<img height=65px src="https://img.icons8.com/color/48/000000/git.png"> 
 </td>
 
 
