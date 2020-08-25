@@ -60,6 +60,9 @@
 </tbody>
 </table>
 
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=wendreof&show_icons=true&theme=algolia&line_height=27">
+</p>
 ____
 
 
