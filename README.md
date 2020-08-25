@@ -39,12 +39,6 @@
 </td>
 
 
-<td align="center" width="20%">
-<span><b><center>Git</center></b></span> 
-<img height=65px src="https://img.icons8.com/color/48/000000/kotlin.png"> 
-</td>
-</tr>
-
 <tr>
 <td align="center" width="20%">
 <span><b><center>Bash</center></b></span> 
@@ -53,7 +47,7 @@
 
 <td align="center" width="20%">
 <span><b><center>C++</center></b></span> 
-<img height=65px src="https://isocpp.org/assets/images/cpp_logo.png"> 
+<img height=65px src="https://img.icons8.com/color/48/000000/kotlin.png"> 
 </td>
 
 
