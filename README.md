@@ -69,7 +69,7 @@
 </p>
 
 <p align = "center"  width="50%">
- <img height=200px src = "https://wakatime.com/share/@wendreof/a069e1da-5da3-447a-a565-5962ebbb118e.svg">
+ <img height=500px src = "https://wakatime.com/share/@wendreof/a069e1da-5da3-447a-a565-5962ebbb118e.svg">
 </p>
 ____
 
