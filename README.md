@@ -68,8 +68,8 @@
  <img src = "https://wakatime.com/share/@wendreof/cf648789-baf2-4d10-b999-c5d216e0b906.svg">
 </p>
 
-<p align = "center"  width="20%">>
- <img src = "https://wakatime.com/share/@wendreof/a069e1da-5da3-447a-a565-5962ebbb118e.svg">
+<p align = "center"  width="50%">
+ <img height=200px src = "https://wakatime.com/share/@wendreof/a069e1da-5da3-447a-a565-5962ebbb118e.svg">
 </p>
 ____
 
