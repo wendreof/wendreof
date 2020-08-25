@@ -49,7 +49,6 @@
 <img height=65px src="https://img.icons8.com/fluent/48/000000/console.png"> 
 </td>
 
-<tr>
  <td align="center" width="20%">
 <span><b><center>GNU/Linux</center></b></span> 
 <img height=65px src="https://img.icons8.com/color/96/000000/linux.png"> 
