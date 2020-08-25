@@ -64,8 +64,8 @@
   <img src = "https://github-readme-stats.vercel.app/api?username=wendreof&show_icons=true&theme=dracula&line_height=27">
 </p>
 
-<p align = "center">
- <img src = "https://wakatime.com/share/@wendreof/cf648789-baf2-4d10-b999-c5d216e0b906.svg">
+<p align = "center"   width="50%">
+ <img height=500px src  = "https://wakatime.com/share/@wendreof/cf648789-baf2-4d10-b999-c5d216e0b906.svg">
 </p>
 
 <p align = "center"  width="50%">
