@@ -47,20 +47,6 @@
 
 </tr>
 
-<tr>
-
-
-<td align="center" width="20%">
-<span><b><center>JavaScript</center></b></span> 
-<img height=65px src="https://img.icons8.com/color/2x/javascript.png"> 
-</td>
-
-<td align="center" width="20%">
-<span><b><center>HTML</center></b></span> 
-<img height=65px src="https://img.icons8.com/color/2x/html-5.png"> 
-</td>
-</tr>
-
 </tbody>
 </table>
 
