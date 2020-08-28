@@ -1,6 +1,6 @@
 <h2 align="center"> Hi, I'm Wendreo! 👋 <br/> </h2> 
 
-<p align="center"> <samp>Hi, My name is Wendreo Fernandes. I am a Flutter Developer | Mobile Application Specialist | IT Analyst at CREDISAN </p>
+<p align="center"> <samp>Hi, My name is Wendreo Fernandes. I'm a Mobile Software Developer | IT Analyst at CREDISAN </p>
   
   
 ## Tech Stack :computer:
