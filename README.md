@@ -8,7 +8,7 @@
   <li>:rocket: I'm also Mobile Software Developer working and learning the Flutter/Dart ecosystem;</li>
   <li>:mortar_board: Graduated in Mobile Application Development focusing Android platform;</li>
   <li>:mortar_board: Undergraduated in Systems Analysis and Development;</li>
-  <li>😍 In love with ools that facilitates the life of the tech professional.</li>
+  <li>😍 In love with tools that facilitates the life of the tech professional.</li>
 </ul>
   
 ## Tech Stack :hammer:
