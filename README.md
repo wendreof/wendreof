@@ -18,9 +18,9 @@
 <tbody>
  <tr>
 
-<td align="center" width="20%">
+<td align="center" width="10%">
 <span><b><center>.NET</center></b></span> 
-<img height=65px src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"> 
+<img height=35px src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"> 
   
 </td>
 
