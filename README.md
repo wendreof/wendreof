@@ -11,7 +11,7 @@
   <li>😍 In love with ools that facilitates the life of the tech professional.</li>
 </ul>
   
-## Tech Stack :computer:
+## Tech Stack :tools:
 
 <br>
 <table>
