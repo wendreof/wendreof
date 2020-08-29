@@ -5,10 +5,10 @@
 <ul>
   <li>🧑‍💻 Currently working as I.T. Analyst and Mobile Software Developer</li>
   <li>🎙 As I.T. Analyst I develop .NET financial applications such payments and stuff like that;</li>
-  <li>💾 I'm also Mobile Software Developer working and learning Flutter/Dart ecosystem;</li>
-  <li>😍 Graduated in Mobile Application Development focusing Android platform;</li>
-  <li>😊 Undergraduated in Systems Analysis and Development;</li>
-  <li>🤝 Passtionated in tools that facilitates the life of the tech professional</li>
+  <li>💾🌱👯 🔭 I'm also Mobile Software Developer working and learning Flutter/Dart ecosystem;</li>
+  <li>⚡ Graduated in Mobile Application Development focusing Android platform;</li>
+  <li>⚡ Undergraduated in Systems Analysis and Development;</li>
+  <li>😍 Passtionated in tools that facilitates the life of the tech professional</li>
 </ul>
   
 ## Tech Stack :computer:
