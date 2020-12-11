@@ -1,6 +1,6 @@
 <h2 align="center"> Hi, I'm Wendreo! 👋 <br/> </h2> 
 
-<p align="center"> <samp>(brazil) Mobile Software Developer & I.T. Analyst</p>
+<p align="center"> <samp>:br: Mobile Software Developer & I.T. Analyst</p>
 
 <ul>
   <li>💻 Responsible for building .NET financial apps such payment methods and stuff like that;</li>
