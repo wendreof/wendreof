@@ -8,6 +8,10 @@
   <li>:mortar_board: Graduated in Mobile App Development focusing Android platform | Undergraduated in Systems Analysis and Development;</li>
   <li>:purple_heart: In love with tools that facilitates my life as programmer.</li>
 </ul>
+
+```
+> If you spend too much time thinking about a thing, you'll never get it done - Bruce Lee
+```
   
 ## Tech Stack :wrench:
 <br>
