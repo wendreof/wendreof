@@ -73,13 +73,18 @@
 </tbody>
 </table>
 
+
+<!--
+
 <p align = "center"   width="40%">
  <img height=400px src  = "https://wakatime.com/share/@wendreof/cf648789-baf2-4d10-b999-c5d216e0b906.svg">
 </p>
 
 <p align = "center"  width="40%">
  <img height=400px src = "https://wakatime.com/share/@wendreof/a069e1da-5da3-447a-a565-5962ebbb118e.svg">
-</p>
+</p> -->
+
+<figure><embed src="https://wakatime.com/share/@wendreof/34df2c00-039a-428c-8a26-d2e516eca04f.svg"></embed></figure>
 ____
 
 
