@@ -73,14 +73,6 @@
 </tbody>
 </table>
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| <span><b><center>SQL Server</center></b></span> 
-<img height=25px src="https://www.freeiconspng.com/uploads/sql-server-icon-8.png">      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-
-
 <p align = "center"   width="40%">
  <img height=400px src  = "https://wakatime.com/share/@wendreof/cf648789-baf2-4d10-b999-c5d216e0b906.svg">
 </p>
