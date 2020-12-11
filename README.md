@@ -9,8 +9,7 @@
   <li>😍 In love with tools that facilitates my life as programmer.</li>
 </ul>
   
-## Tech Stack :hammer:
-
+## Tech Stack :wrench:
 <br>
 <table>
 <tbody>
