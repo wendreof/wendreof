@@ -77,7 +77,7 @@
 
 
 <p align = "center"   width="40%">
- <img height=300px src  = "https://wakatime.com/share/@wendreof/34df2c00-039a-428c-8a26-d2e516eca04f.svg">
+ <img height=370px src  = "https://wakatime.com/share/@wendreof/34df2c00-039a-428c-8a26-d2e516eca04f.svg">
 </p>
 <!--
 <p align = "center"  width="40%">
