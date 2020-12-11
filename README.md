@@ -4,7 +4,7 @@
 
 <ul>
   <li>💻 Responsible for building .NET financial apps such payment methods and stuff like that;</li>
-  <li>:rocket: Working and learning on Flutter/Dart ecosystem;</li>
+  <li>:rocket: Working and learning the Flutter/Dart ecosystem;</li>
   <li>:mortar_board: Graduated in Mobile App Development focusing Android platform | Undergraduated in Systems Analysis and Development;</li>
   <li>😍 In love with tools that facilitates my life as programmer.</li>
 </ul>
@@ -72,9 +72,6 @@
 </tbody>
 </table>
 
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=wendreof&show_icons=true&theme=dracula&line_height=27">
-</p>
 
 <p align = "center"   width="40%">
  <img height=400px src  = "https://wakatime.com/share/@wendreof/cf648789-baf2-4d10-b999-c5d216e0b906.svg">
@@ -87,6 +84,10 @@ ____
 
 
 <!--
+
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=wendreof&show_icons=true&theme=dracula&line_height=27">
+</p>
 **wendreof/wendreof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
