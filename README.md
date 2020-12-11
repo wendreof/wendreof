@@ -9,8 +9,8 @@
   <li>:purple_heart: In love with tools that facilitates my life as programmer.</li>
 </ul>
 
-```
-> If you spend too much time thinking about a thing, you'll never get it done - Bruce Lee
+``` 
+If you spend too much time thinking about a thing, you'll never get it done - Bruce Lee
 ```
   
 ## Tech Stack :wrench:
