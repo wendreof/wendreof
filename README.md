@@ -3,10 +3,10 @@
 <p align="center"> <samp>Mobile Software Developer & I.T. Analyst</p>
 
 <ul>
-  <li>💻 Responsible for build .NET financial apps such payments methods and stuff like that;</li>
-  <li>:rocket: Working and learning the Flutter/Dart ecosystem;</li>
+  <li>💻 Responsible for build .NET financial apps such payment methods and stuff like that;</li>
+  <li>:rocket: Working and learning on Flutter/Dart ecosystem;</li>
   <li>:mortar_board: Graduated in Mobile App Development focusing Android platform | Undergraduated in Systems Analysis and Development;</li>
-  <li>😍 In love with tools that facilitates my life while programming.</li>
+  <li>😍 In love with tools that facilitates my life as programmer.</li>
 </ul>
   
 ## Tech Stack :hammer:
