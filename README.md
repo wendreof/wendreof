@@ -17,13 +17,13 @@
 <tbody>
  <tr>
 
-<td align="center" width="10%">
+<td align="center" width="5%">
 <span><b><center>.NET</center></b></span> 
 <img height=35px src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"> 
   
 </td>
 
-<td align="center" width="10%">
+<td align="center" width="5%">
 <span><b><center>Flutter</center></b></span> 
 <img height=35px src="https://img.icons8.com/color/2x/flutter.png"> 
 </td>
