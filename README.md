@@ -3,12 +3,10 @@
 <p align="center"> <samp>Mobile Software Developer & I.T. Analyst</p>
 
 <ul>
-  <li>💻 Currently working as I.T. Analyst at Credisan and Mobile Software Developer Freelancer;</li>
-  <li>💻 As I.T. Analyst responsible for build .NET financial apps such payments and stuff like that;</li>
-  <li>:rocket: I'm also Mobile Software Developer working and learning the Flutter/Dart ecosystem;</li>
-  <li>:mortar_board: Graduated in Mobile Application Development focusing Android platform;</li>
-  <li>:mortar_board: Undergraduated in Systems Analysis and Development;</li>
-  <li>😍 In love with tools that facilitates the life of the tech professional.</li>
+  <li>💻 Responsible for build .NET financial apps such payments methods and stuff like that;</li>
+  <li>:rocket: Working and learning the Flutter/Dart ecosystem;</li>
+  <li>:mortar_board: Graduated in Mobile App Development focusing Android platform | Undergraduated in Systems Analysis and Development;</li>
+  <li>😍 In love with tools that facilitates my life while programming.</li>
 </ul>
   
 ## Tech Stack :hammer:
