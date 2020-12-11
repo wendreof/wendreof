@@ -61,6 +61,12 @@
 </td> 
 
 
+ <td align="center" width="10%">
+<span><b><center>SQL Server</center></b></span> 
+<img height=35px src="https://www.freeiconspng.com/uploads/sql-server-icon-8.png"> 
+  
+ </td> 
+
 </tr>
 
 </tbody>
