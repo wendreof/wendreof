@@ -40,7 +40,7 @@
 <tr>
 <td align="center" width="20%">
 <span><b><center>Java</center></b></span> 
-<img height=60px src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo.png"> 
+<img height=65px src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo.png"> 
 </td>
   
 <td align="center" width="20%">
@@ -68,7 +68,7 @@
 
  <td align="center" width="20%">
 <span><b><center>MS SQL Server</center></b></span> 
-<img height=60px src="https://www.freeiconspng.com/uploads/sql-server-icon-8.png"> 
+<img height=65px src="https://www.freeiconspng.com/uploads/sql-server-icon-8.png"> 
   
  </td> 
 
