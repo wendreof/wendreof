@@ -84,12 +84,8 @@
 </p>
 
 <p align = "center"   width="40%">
- <img height=370px src  = "https://wakatime.com/share/@wendreof/a169d910-f877-40e5-8fc5-61afedf88274.svg>
+ <img height=370px src  = "https://wakatime.com/share/@wendreof/a169d910-f877-40e5-8fc5-61afedf88274.svg">
 </p>
-<!--
-<p align = "center"  width="40%">
- <img height=400px src = "https://wakatime.com/share/@wendreof/a069e1da-5da3-447a-a565-5962ebbb118e.svg">
-</p> -->
 
 ____
 
