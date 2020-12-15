@@ -1,6 +1,11 @@
 <h2 align="center"> Hi, I'm Wendreo! 👋 <br/> </h2> 
 
 <p align="center"> <samp>:brazil: Mobile Software Developer & I.T. Analyst</p>
+  
+<br />
+<p align="center">
+<a href="https://www.linkedin.com/in/wendreof/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://instagram.com/wendreof"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
 <ul>
   <li>💻 Responsible for building .NET financial apps such payment methods and stuff like that;</li>
