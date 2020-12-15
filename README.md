@@ -19,7 +19,7 @@
 
 <td align="center" width="20%">
 <span><b><center>.NET</center></b></span> 
-<img height=25px src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"> 
+<img height=25px src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Microsoft_.NET_logo.png"> 
   
 </td>
 
