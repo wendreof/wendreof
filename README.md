@@ -18,7 +18,7 @@
  <tr>
 
 <td align="center" width="20%">
-<span><b><center>.NET</center></b></span> 
+<span><b><center>MS .NET</center></b></span> 
 <img height=60px src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Microsoft_.NET_logo.png"> 
   
 </td>
@@ -63,7 +63,7 @@
 
 
  <td align="center" width="20%">
-<span><b><center>SQL Server</center></b></span> 
+<span><b><center>MS SQL Server</center></b></span> 
 <img height=60px src="https://www.freeiconspng.com/uploads/sql-server-icon-8.png"> 
   
  </td> 
