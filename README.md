@@ -22,8 +22,8 @@
  <tr>
 
 <td align="center" width="20%">
-<span><b><center>MS .NET</center></b></span> 
-<img height=60px src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Microsoft_.NET_logo.png"> 
+<span><b><center>.NET</center></b></span> 
+<img height=65px src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Microsoft_.NET_logo.png"> 
   
 </td>
 
@@ -34,7 +34,7 @@
 
 <td align="center" width="20%">
 <span><b><center>Firebird</center></b></span> 
-<img height=60px src="https://firebirdsql.org/file/about/ds-firebird-logo-1000.png"> 
+<img height=65px src="https://firebirdsql.org/file/about/ds-firebird-logo-1000.png"> 
 </td>
 
 <tr>
