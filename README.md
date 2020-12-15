@@ -51,18 +51,18 @@
 
 <td align="center" width="20%">
 <span><b><center>Git</center></b></span> 
-<img height=60px src="https://img.icons8.com/color/48/000000/git.png"> 
+<img height=65px src="https://img.icons8.com/color/48/000000/git.png"> 
 </td>
 
 <tr>
 <td align="center" width="20%">
 <span><b><center>Bash</center></b></span> 
-<img height=60px src="https://img.icons8.com/fluent/48/000000/console.png"> 
+<img height=65px src="https://img.icons8.com/fluent/48/000000/console.png"> 
 </td>
 
  <td align="center" width="20%">
 <span><b><center>GNU/Linux</center></b></span> 
-<img height=60px src="https://img.icons8.com/color/96/000000/linux.png"> 
+<img height=65px src="https://img.icons8.com/color/96/000000/linux.png"> 
 </td> 
 
 
@@ -78,10 +78,10 @@
 </table>
 
 
-
+## Some Status
 
 <p align = "center"   width="40%">
- <img height=370px src  = "https://wakatime.com/share/@wendreof/34df2c00-039a-428c-8a26-d2e516eca04f.svg">
+ <img height=370px src  = "https://wakatime.com/share/@wendreof/01827b46-e8e2-4410-9e17-1039b0931617.svg">
 </p>
 <!--
 <p align = "center"  width="40%">
