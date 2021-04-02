@@ -1,6 +1,6 @@
 <h2 align="center"> Hi, I'm Wendreo! 👋 <br/> </h2> 
 
-<p align="center"> <samp>:brazil: Mobile Software Developer & I.T. Analyst</p>
+<p align="center"> <samp>:brazil: Software Developer & I.T. Analyst</p>
   
 <p align="center">
 <a href="https://www.linkedin.com/in/wendreof/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
