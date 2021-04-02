@@ -11,7 +11,7 @@
   <li>💻 Responsible for building .NET financial apps such payment methods and stuff like that;</li>
   <li>:rocket: Working and learning the Flutter/Dart ecosystem;</li>
   <li>:mortar_board: Graduated in Mobile App Development focusing Android platform | Undergraduated in Systems Analysis and Development;</li>
-  <li>:purple_heart: In love with tools that facilitates my life as programmer.</li>
+  <li>:purple_heart: In love with tools that facilitates my life as tech professional.</li>
 </ul>
 
 > If you spend too much time thinking about a thing, you'll never get it done - Bruce Lee
