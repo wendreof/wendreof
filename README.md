@@ -17,6 +17,8 @@
   
 ## Tech Stack :wrench:
 <br>
+
+<p align = "center" width="195%">
 <table>
 <tbody>
   
@@ -72,6 +74,7 @@
 
 </tbody>
 </table>
+</p>
 
 
 ## Some Stats
