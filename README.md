@@ -19,68 +19,60 @@
 <br>
 <table>
 <tbody>
- <tr>
-
-<td align="center" width="20%">
-<span><b><center></center></b></span> 
-<img height=65px src="https://upload.wikimedia.org/wikipedia/commons/0/0d/C_Sharp_wordmark.svg"> 
   
-</td>
+<tr>
+  <td align="center" width="20%">
+  <span><b><center></center></b></span> 
+  <img height=65px src="https://upload.wikimedia.org/wikipedia/commons/0/0d/C_Sharp_wordmark.svg"> 
 
-<td align="center" width="20%">
-<span><b><center></center></b></span> 
-<img height=60px src="https://img.icons8.com/color/2x/flutter.png"> 
-</td>
+  </td>
 
- <td align="center" width="20%">
-<span><b><center>VB.NET</center></b></span> 
-<img height=60px src="https://upload.wikimedia.org/wikipedia/commons/4/40/VB.NET_Logo.svg"> 
-</td>
-   
+  <td align="center" width="20%">
+  <span><b><center></center></b></span> 
+  <img height=60px src="https://img.icons8.com/color/2x/flutter.png"> 
+  </td>
+
+   <td align="center" width="20%">
+  <span><b><center></center></b></span> 
+  <img height=60px src="https://upload.wikimedia.org/wikipedia/commons/4/40/VB.NET_Logo.svg"> 
+  </td>
+  
+<tr>
+  <td align="center" width="20%">
+  <span><b><center></center></b></span> 
+  <img height=65px src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Android_logo_%282014-2019%29.png"> 
+  </td>
+
+  <td align="center" width="20%">
+  <span><b><center></center></b></span> 
+  <img height=65px src="https://firebirdsql.org/file/about/ds-firebird-logo-1000.png"> 
+  </td>
+
+  <td align="center" width="20%">
+  <span><b><center></center></b></span> 
+  <img height=65px src="https://www.freeiconspng.com/uploads/sql-server-icon-8.png"> 
+  </td> 
 
 <tr>
-  
- <td align="center" width="20%">
-<span><b><center></center></b></span> 
-<img height=65px src="https://firebirdsql.org/file/about/ds-firebird-logo-1000.png"> 
-</td>
-  
- <td align="center" width="20%">
-<span><b><center></center></b></span> 
-<img height=65px src="https://www.freeiconspng.com/uploads/sql-server-icon-8.png"> 
-  
- </td> 
-  
-<td align="center" width="20%">
-<span><b><center></center></b></span> 
-<img height=65px src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Android_logo_%282014-2019%29.png"> 
-</td>
-  
-<td align="center" width="20%">
-<span><b><center></center></b></span> 
-<img height=60px src="https://img.icons8.com/color/48/000000/kotlin.png"> 
-</td>
+  <td align="center" width="20%">
+  <span><b><center></center></b></span> 
+  <img height=60px src="https://img.icons8.com/color/48/000000/kotlin.png"> 
+  </td>
  
+  <td align="center" width="20%">
+  <span><b><center></center></b></span> 
+  <img height=65px src="https://img.icons8.com/color/48/000000/git.png"> 
+  </td>
 
-<td align="center" width="20%">
-<span><b><center></center></b></span> 
-<img height=65px src="https://img.icons8.com/color/48/000000/git.png"> 
-</td>
+  <td align="center" width="20%">
+  <span><b><center></center></b></span> 
+  <img height=65px src="https://img.icons8.com/fluent/48/000000/console.png"> 
+  </td>
 
-<tr>
-<td align="center" width="20%">
-<span><b><center></center></b></span> 
-<img height=65px src="https://img.icons8.com/fluent/48/000000/console.png"> 
-</td>
-
- <td align="center" width="20%">
-<span><b><center></center></b></span> 
-<img height=65px src="https://img.icons8.com/color/96/000000/linux.png"> 
-</td> 
-
-
-
-
+   <td align="center" width="20%">
+  <span><b><center></center></b></span> 
+  <img height=65px src="https://img.icons8.com/color/96/000000/linux.png"> 
+  </td> 
 </tr>
 
 </tbody>
