@@ -43,13 +43,20 @@
   <span><b><center></center></b></span> 
   <img height=65px src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Android_logo_%282014-2019%29.png"> 
   </td>
+  
+ <td align="center" width="20%">
+  <span><b><center></center></b></span> 
+  <img height=65px src="https://commons.wikimedia.org/wiki/File:Apple_logo_dark_grey.svg"> 
+  </td>
 
+
+
+  <tr>
+    
   <td align="center" width="20%">
   <span><b><center></center></b></span> 
   <img height=65px src="https://firebirdsql.org/file/about/ds-firebird-logo-1000.png"> 
   </td>
-
-  <tr>
     
   <td align="center" width="20%">
   <span><b><center></center></b></span> 
