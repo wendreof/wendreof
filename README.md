@@ -22,8 +22,8 @@
  <tr>
 
 <td align="center" width="20%">
-<span><b><center>.NET</center></b></span> 
-<img height=65px src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Microsoft_.NET_logo.png"> 
+<span><b><center>C#</center></b></span> 
+<img height=65px src="https://upload.wikimedia.org/wikipedia/commons/0/0d/C_Sharp_wordmark.svg"> 
   
 </td>
 <!--
@@ -33,7 +33,7 @@
 </td>
 -->
    <td align="center" width="20%">
-<span><b><center>Flutter</center></b></span> 
+<span><b><center>VB.NET</center></b></span> 
 <img height=60px src="https://upload.wikimedia.org/wikipedia/commons/4/40/VB.NET_Logo.svg"> 
 </td>
    
