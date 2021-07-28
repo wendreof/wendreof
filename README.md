@@ -18,7 +18,6 @@
 ## Tech Stack :wrench:
 <br>
 
-<p align = "center" width="195%">
 <table>
 <tbody>
   
@@ -39,7 +38,7 @@
   <img height=60px src="https://upload.wikimedia.org/wikipedia/commons/4/40/VB.NET_Logo.svg"> 
   </td>
   
-<tr>
+
   <td align="center" width="20%">
   <span><b><center></center></b></span> 
   <img height=65px src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Android_logo_%282014-2019%29.png"> 
@@ -74,7 +73,6 @@
 
 </tbody>
 </table>
-</p>
 
 
 ## Some Stats
