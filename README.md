@@ -46,7 +46,7 @@
   
  <td align="center" width="20%">
   <span><b><center></center></b></span> 
-  <img height=65px src="https://commons.wikimedia.org/wiki/File:Apple_logo_dark_grey.svg"> 
+  <img height=65px src="https://upload.wikimedia.org/wikipedia/commons/7/74/Apple_logo_dark_grey.svg"> 
   </td>
 
 
