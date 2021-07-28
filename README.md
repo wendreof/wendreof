@@ -15,7 +15,7 @@
 
 > If you spend too much time thinking about a thing, you'll never get it done - Bruce Lee
   
-## :wrench: Tech Stack :wrench:
+## :wrench: Tech Stack
 <br>
 
 <table>
@@ -84,7 +84,7 @@
 </table>
 
 
-## :bar_chart: Some Stats :bar_chart:	
+## :bar_chart: Some Stats
 <p align = "center" width="195%">
  <img height=500px src="https://wakatime.com/share/@wendreof/01827b46-e8e2-4410-9e17-1039b0931617.svg">
  <!--<img height=370px src  = "https://wakatime.com/share/@wendreof/a169d910-f877-40e5-8fc5-61afedf88274.svg">-->
