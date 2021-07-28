@@ -49,7 +49,6 @@
   <img height=65px src="https://firebirdsql.org/file/about/ds-firebird-logo-1000.png"> 
   </td>
 
-  <tr>
   <td align="center" width="20%">
   <span><b><center></center></b></span> 
   <img height=65px src="https://www.freeiconspng.com/uploads/sql-server-icon-8.png"> 
