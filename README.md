@@ -45,8 +45,8 @@
 
 <tr>
 <td align="center" width="20%">
-<span><b><center>Java</center></b></span> 
-<img height=65px src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo.png"> 
+<span><b><center>Java/Kotlin</center></b></span> 
+<img height=65px src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Android_logo_%282014-2019%29.png"> 
 </td>
   
 <td align="center" width="20%">
