@@ -32,6 +32,12 @@
   <span><b><center></center></b></span> 
   <img height=60px src="https://img.icons8.com/color/2x/flutter.png"> 
   </td>
+  
+  <div align="right">
+  <a href="https://badges.pufler.dev">
+      <img src="https://komarev.com/ghpvc/?username=wendreof" alt="Visitors badge" />
+   </a>
+</div>
 
    <td align="center" width="20%">
   <span><b><center></center></b></span> 
