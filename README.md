@@ -14,6 +14,16 @@
 </ul>
 
 > If you spend too much time thinking about a thing, you'll never get it done - Bruce Lee
+
+  <div align="right">
+  <a href="https://badges.pufler.dev">
+      <img src="https://komarev.com/ghpvc/?username=wendreof" alt="Visitors badge" />
+   </a>
+</div>
+
+[![Years Badge](https://badges.pufler.dev/years/wendreof)](https://badges.pufler.dev)
+
+
   
 ## :wrench: Recently Tech Stack
 <br>
@@ -33,12 +43,6 @@
   <img height=60px src="https://img.icons8.com/color/2x/flutter.png"> 
   </td>
   
-  <div align="right">
-  <a href="https://badges.pufler.dev">
-      <img src="https://komarev.com/ghpvc/?username=wendreof" alt="Visitors badge" />
-   </a>
-</div>
-
    <td align="center" width="20%">
   <span><b><center></center></b></span> 
   <img height=60px src="https://upload.wikimedia.org/wikipedia/commons/4/40/VB.NET_Logo.svg"> 
