@@ -22,6 +22,9 @@
 </div>
 
 [![Years Badge](https://badges.pufler.dev/years/wendreof)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/wendreof)](https://badges.pufler.dev)
+
+
 
 
   
