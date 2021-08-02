@@ -37,8 +37,6 @@
   
 ## :wrench: Recently Tech Stack
 <br>
-
-    <div align="center">
 <table>
 <tbody>
   
@@ -103,8 +101,7 @@
 
 </tbody>
 </table>
-      </div>
-
+  
 
 ## :bar_chart: Some Code Stats
 <p align = "center" width="195%">
