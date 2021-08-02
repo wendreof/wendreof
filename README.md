@@ -6,6 +6,7 @@
 <a href="https://www.linkedin.com/in/wendreof/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://instagram.com/wendreof"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://www.twitch.tv/wendreof"/><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/></a>
+<a href="https://medium.com/@wendreof"><img src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white"/></a>
 
 <ul>
   <li>💻 Responsible for building financial apps such payment methods and stuff like that;</li>
