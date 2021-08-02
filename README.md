@@ -24,12 +24,6 @@
 <img src="https://badges.pufler.dev/updated/wendreof/wendreof" alt="Updated" />
 </div>
 
-![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=flutter)
-
-
-
-
-
 
 
 
@@ -37,6 +31,9 @@
   
 ## :wrench: Recently Tech Stack
 <br>
+  
+  ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+  
 <table>
 <tbody>
   
