@@ -32,11 +32,8 @@
 ## :wrench: I've worked with
     <div align="center">
   <a href="https://badges.pufler.dev">
-      <img src="(https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
- <img src="https://badges.pufler.dev/repos/wendreof" alt="Public repos" />
-<img src="https://badges.pufler.dev/gists/wendreof" alt="Gists" />
-<img src="https://badges.pufler.dev/created/wendreof/wendreof" alt="Created" />
-<img src="https://badges.pufler.dev/updated/wendreof/wendreof" alt="Updated" />
+      <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
+
 </div>
     ![C#])
     ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
