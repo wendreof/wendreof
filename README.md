@@ -17,7 +17,7 @@
 
   <div align="center">
   <a href="https://badges.pufler.dev">
-      <img src="https://komarev.com/ghpvc/?username=wendreof" alt="Visitors badge" />
+      <img src="https://komarev.com/ghpvc/?username=wendreof" alt="Visits" />
  <img src="https://badges.pufler.dev/repos/wendreof" alt="Public repos" />
 <img src="https://badges.pufler.dev/gists/wendreof" alt="Gists" />
 <img src="https://badges.pufler.dev/created/wendreof/wendreof" alt="Created" />
