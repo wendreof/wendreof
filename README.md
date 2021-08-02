@@ -18,8 +18,7 @@
   <div align="center">
   <a href="https://badges.pufler.dev">
       <img src="https://komarev.com/ghpvc/?username=wendreof" alt="Visitors badge" />
-    [![Years Badge](https://badges.pufler.dev/years/wendreof)](https://badges.pufler.dev)
-[![Repos Badge](https://badges.pufler.dev/repos/wendreof)](https://badges.pufler.dev)
+ <img src="https://badges.pufler.dev/repos/wendreof" alt="Public repos" />
 [![Gists Badge](https://badges.pufler.dev/gists/wendreof)](https://badges.pufler.dev)
 [![Created Badge](https://badges.pufler.dev/created/wendreof/wendreof)](https://badges.pufler.dev)
    </a>
