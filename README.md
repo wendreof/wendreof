@@ -24,7 +24,7 @@
 <img src="https://badges.pufler.dev/updated/wendreof/wendreof" alt="Updated" />
 </div>
 
-
+![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=flutter)
 
 
 
