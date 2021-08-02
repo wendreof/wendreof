@@ -22,8 +22,6 @@
 <img src="https://badges.pufler.dev/gists/wendreof" alt="Gists" />
 <img src="https://badges.pufler.dev/created/wendreof/wendreof" alt="Created" />
 <img src="https://badges.pufler.dev/updated/wendreof/wendreof" alt="Updated" />
-[![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fwendreolf)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Fwendreof%2wendreof%2F)
-
 </div>
 
 
