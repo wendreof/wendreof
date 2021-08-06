@@ -11,7 +11,7 @@
 <ul>
   <li>💻 Responsible for building financial apps such payment methods and stuff like that;</li>
   <li>:rocket: Graduate degree in Mobile apps development;</li>
-  <li>:purple_heart: Lover of Flutter and it's ecosystem.</li>
+  <li>:purple_heart: Lover of Flutter and its ecosystem.</li>
 </ul>
 
 > If you spend too much time thinking about a thing, you'll never get it done - Bruce Lee
