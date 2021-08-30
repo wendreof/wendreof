@@ -22,7 +22,7 @@
  <img src="https://badges.pufler.dev/repos/wendreof" alt="Public repos" />
 <img src="https://badges.pufler.dev/gists/wendreof" alt="Gists" />
 <img src="https://badges.pufler.dev/created/wendreof/wendreof" alt="Created" />
-<img src="https://badges.pufler.dev/updated/wendreof/wendreof" alt="Updated" />
+<!--<img src="https://badges.pufler.dev/updated/wendreof/wendreof" alt="Updated" /> -->
 </div>
 
 
@@ -51,7 +51,7 @@
 
 ## :bar_chart: Some Code Stats
 <p align = "center" width="195%">
- <img height=500px src="https://wakatime.com/share/@wendreof/01827b46-e8e2-4410-9e17-1039b0931617.svg">
+ <img width="541" height="170" src="https://wakatime.com/share/@wendreof/01827b46-e8e2-4410-9e17-1039b0931617.svg">
  <!--<img height=370px src  = "https://wakatime.com/share/@wendreof/a169d910-f877-40e5-8fc5-61afedf88274.svg">-->
 </p>
 
