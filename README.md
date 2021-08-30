@@ -17,7 +17,7 @@
 > If you spend too much time thinking about a thing, you'll never get it done - Bruce Lee
 
   <div align="center">
-  <a href="github.com/wendreof">
+  <a href="https://marketplace.visualstudio.com/items?itemName=wendreof.ufo">
       <img src="https://komarev.com/ghpvc/?username=wendreof" alt="Visits" />
  <img src="https://badges.pufler.dev/repos/wendreof" alt="Public repos" />
 <img src="https://badges.pufler.dev/gists/wendreof" alt="Gists" />
