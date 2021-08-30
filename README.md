@@ -51,7 +51,7 @@
 
 ## :bar_chart: Some Code Stats
 <p align = "center" width="195%">
- <img width="541" height="170" src="https://wakatime.com/share/@wendreof/01827b46-e8e2-4410-9e17-1039b0931617.svg">
+ <img width="541" height="170" src="https://wakatime.com/share/@wendreof/198d18b1-a046-4301-9000-2b541186c9c4.png">
  <!--<img height=370px src  = "https://wakatime.com/share/@wendreof/a169d910-f877-40e5-8fc5-61afedf88274.svg">-->
 </p>
 
