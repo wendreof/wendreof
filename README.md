@@ -50,8 +50,8 @@
   
 
 ## :bar_chart: Some Code Stats
-<p align = "center">
- <img width="400px" src="https://wakatime.com/share/@wendreof/e6167a86-f585-4521-893f-0f6ded707e87.png">
+<p align="center">
+ <img width="500px" src="https://wakatime.com/share/@wendreof/e6167a86-f585-4521-893f-0f6ded707e87.png">
  <!--<img height=370px src  = "https://wakatime.com/share/@wendreof/a169d910-f877-40e5-8fc5-61afedf88274.svg">-->
 </p>
 ____
