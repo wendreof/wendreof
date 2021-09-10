@@ -84,7 +84,7 @@ Featured Projects: [Platform](https://perfectflight.com.br/)
     <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0"/>
 -->
    
-## ⭐ Coding activity
+## ⭐ Coding Activity
 <p align="center">
  <img width="500px" src="https://wakatime.com/share/@wendreof/53b9a21e-408b-4d18-9de5-8e0901a579bf.png">
 
