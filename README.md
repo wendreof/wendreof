@@ -45,7 +45,7 @@ Featured Projects: [Android App](https://play.google.com/store/apps/details?id=b
 Tech Stack: `Dart/Flutter`, `Java`, `Kotlin`\
 Tools: `Git`, `VS Code`, `Android Studio`, `Xcode`\
 Platforms:  `Linux`,  `macOS`,  `Android`, `iOS`\
-Projects: [Portal Amazonas Android app](https://play.google.com/store/apps/details?id=br.com.sistemasamazonas), [Portal Amazonas iOS app](https://apps.apple.com/br/app/portal-amazonas/id1549608609)
+Featured Projects: [Portal Amazonas Android app](https://play.google.com/store/apps/details?id=br.com.sistemasamazonas), [Portal Amazonas iOS app](https://apps.apple.com/br/app/portal-amazonas/id1549608609)
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="Perfect Flight" src="https://media-exp1.licdn.com/dms/image/C4E0BAQFigB0yzJzzeg/company-logo_200_200/0/1519865074333?e=2159024400&v=beta&t=uNCrA9MDuPXRrMLrqMwanYt7MVklKa3-7R3IAeLSRlQ"/>](https://perfectflight.com.br/)
