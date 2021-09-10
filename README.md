@@ -90,10 +90,10 @@ Featured Projects: [Website](https://perfectflight.com.br/)
 
   <img width="500px" src="https://wakatime.com/share/@wendreof/f0cb9e19-b0c1-4e69-a730-f715b8dea470.png">
   
-   <img width="500px" src="https://wakatime.com/share/@wendreof/641463d5-b47f-48fb-82ab-b735dbc06164.png"> 
+   <!-- <img width="500px" src="https://wakatime.com/share/@wendreof/641463d5-b47f-48fb-82ab-b735dbc06164.png"> 
    
    <img width="500px" src="https://wakatime.com/share/@wendreof/b9488577-84c9-442d-964f-86c5b235c1bb.png">
- 
+  -->
 </p>
 ____
 
