@@ -54,8 +54,8 @@ Projects: [Portal Amazonas Android app](https://play.google.com/store/apps/detai
 [**Perfect Flight**](https://perfectflight.com.br/) • Full-time \
 Tech Stack: `MySQL`, `PHP`,`HTML5`, `CSS3`\
 Tools: `Git`, `VS Code`, `PHP Storm`, `WorkBench`\
-Plaforms: `Web` \
-Featured Projects: [Platform](https://perfectflight.com.br/)
+Plaforms: `Web`, `Windows`\
+Featured Projects: [Website](https://perfectflight.com.br/)
 <br/>
 <br/>
 
