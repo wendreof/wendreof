@@ -11,7 +11,7 @@
 
 <ul>
   <li>💻 Responsible for building financial apps such payment methods and stuff like that;</li>
-  <li>:rocket: Graduate degree in Mobile apps development;</li>
+  <li>:mortar_board: Graduate degree in Mobile apps development;</li>
   <li>:purple_heart: Lover of Flutter and its ecosystem.</li>
 </ul>
 
@@ -26,7 +26,39 @@
 </div>
 
 
-## :wrench: I've worked with
+<!-- -->
+
+## :briefcase: Work Experience
+In the overview below you'll find my most recent work experiences:
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://portal.credisan.com.br/wp-content/uploads/2019/07/logo_credisan-03.png"/>](https://www.spacex.com/)
+
+**Information Technology Analyst | Software Developer** \
+[**Credisan Cooperativa de Crédito**](https://portal.credisan.com.br/) • Full-time \
+Languages & Technologies: `Dart/Flutter`, `C#`, `VB.NET`, `Firebird`, `MS SQL Server`\
+Featured Projects: [Android App](https://play.google.com/store/apps/details?id=br.com.credisan), [iOS App](https://apps.apple.com/br/app/credisan-pix/id1531922714), [Pix](https://portal.credisan.com.br/pix/), [(DDA) Débito Direto Autorizado](https://portal.credisan.com.br/pix/)
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://media-exp1.licdn.com/dms/image/C4D0BAQFqnOuFdRwoTQ/company-logo_200_200/0/1601140298524?e=1639612800&v=beta&t=qKTUcwSwHzc87DhOMkZpjNV1vqdcW2dbkUMJq-KNjfw"/>](https://rocketseat.com.br/)
+
+**iOS/Android Developer** \
+[**WM Digital Techs**](https://www.linkedin.com/company/wm-digital-techs) • Contract \
+Languages & Technologies: `Dart/Flutter`, `Java`, `Kotlin`\
+Projects: [Portal Amazonas Android app](https://play.google.com/store/apps/details?id=br.com.sistemasamazonas), [Portal Amazonas iOS app](https://apps.apple.com/br/app/portal-amazonas/id1549608609)
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Nubank" src="https://media-exp1.licdn.com/dms/image/C4E0BAQFigB0yzJzzeg/company-logo_200_200/0/1519865074333?e=2159024400&v=beta&t=uNCrA9MDuPXRrMLrqMwanYt7MVklKa3-7R3IAeLSRlQ"/>](https://perfectflight.com.br/)
+
+** Systems Analyst (Jr.)* \
+[**Perfect Flight**](https://perfectflight.com.br/) • Full-time \
+Languages & Technologies: `MySQL`, `PHP`,`HTML5`, `CSS3`\
+Featured Projects: [Platform](https://perfectflight.com.br/)
+<br/>
+<br/>
+
+Please find me on [LinkedIn](https://www.linkedin.com/in/coloque-aqui-seu-username/) for a more detailed description of my full work experience, and education.
+
+## 🚀 I've worked with
  
   <a href="https://marketplace.visualstudio.com/items?itemName=wendreof.ufo">
      <!-- Languages-->
@@ -51,9 +83,16 @@
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
     <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0"/>
    
-## :bar_chart: Some Stats
+## ⭐ Coding activity
 <p align="center">
- <img width="480px" src="https://wakatime.com/share/@wendreof/e27a0bbc-2fdb-4979-8416-fe622d3b10e0.png">
+ <img width="500px" src="https://wakatime.com/share/@wendreof/53b9a21e-408b-4d18-9de5-8e0901a579bf.png">
+
+  <img width="500px" src="https://wakatime.com/share/@wendreof/f0cb9e19-b0c1-4e69-a730-f715b8dea470.png">
+  
+   <img width="500px" src="https://wakatime.com/share/@wendreof/641463d5-b47f-48fb-82ab-b735dbc06164.png"> 
+   
+   <img width="500px" src="https://wakatime.com/share/@wendreof/b9488577-84c9-442d-964f-86c5b235c1bb.png">
+ 
 </p>
 ____
 
