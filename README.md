@@ -31,7 +31,7 @@
 ## :briefcase: Work Experience
 In the overview below you'll find my most recent work experiences:
 
-[<img align="left" height="94px" width="94px" alt="Credisan Cooperativa de Crédito" src="https://portal.credisan.com.br/wp-content/uploads/2019/07/logo_credisan-03.png"/>](https://portal.credisan.com.br/)
+[<img align="left" height="94px" width="94px" alt="Credisan Cooperativa de Crédito" src="https://is5-ssl.mzstatic.com/image/thumb/Purple125/v4/c6/d0/0a/c6d00afe-877d-ff4e-7ee4-0de2275ed223/AppIcon-1x_U007emarketing-0-7-0-0-P3-85-220.png/246x0w.webp"/>](https://portal.credisan.com.br/)
 
 **Information Technology Analyst | Software Developer** \
 [**Credisan Cooperativa de Crédito**](https://portal.credisan.com.br/) • Full-time \
