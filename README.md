@@ -31,7 +31,7 @@
 ## :briefcase: Work Experience
 In the overview below you'll find my most recent work experiences:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://portal.credisan.com.br/wp-content/uploads/2019/07/logo_credisan-03.png"/>](https://portal.credisan.com.br/)
+[<img align="left" height="94px" width="94px" alt="Credisan Cooperativa de Crédito" src="https://portal.credisan.com.br/wp-content/uploads/2019/07/logo_credisan-03.png"/>](https://portal.credisan.com.br/)
 
 **Information Technology Analyst | Software Developer** \
 [**Credisan Cooperativa de Crédito**](https://portal.credisan.com.br/) • Full-time \
@@ -39,7 +39,7 @@ Languages & Technologies: `Dart/Flutter`, `C#`, `VB.NET`, `Firebird`, `MS SQL Se
 Featured Projects: [Android App](https://play.google.com/store/apps/details?id=br.com.credisan), [iOS App](https://apps.apple.com/br/app/credisan-pix/id1531922714), [Pix](https://portal.credisan.com.br/pix/), [(DDA) Débito Direto Autorizado](https://portal.credisan.com.br/pix/)
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://media-exp1.licdn.com/dms/image/C4D0BAQFqnOuFdRwoTQ/company-logo_200_200/0/1601140298524?e=1639612800&v=beta&t=qKTUcwSwHzc87DhOMkZpjNV1vqdcW2dbkUMJq-KNjfw"/>](https://rocketseat.com.br/)
+[<img align="left" height="94px" width="94px" alt="WM Digital Techs" src="https://media-exp1.licdn.com/dms/image/C4D0BAQFqnOuFdRwoTQ/company-logo_200_200/0/1601140298524?e=1639612800&v=beta&t=qKTUcwSwHzc87DhOMkZpjNV1vqdcW2dbkUMJq-KNjfw"/>](https://www.linkedin.com/company/wm-digital-techs)
 
 **iOS/Android Developer** \
 [**WM Digital Techs**](https://www.linkedin.com/company/wm-digital-techs) • Contract \
@@ -47,9 +47,9 @@ Languages & Technologies: `Dart/Flutter`, `Java`, `Kotlin`\
 Projects: [Portal Amazonas Android app](https://play.google.com/store/apps/details?id=br.com.sistemasamazonas), [Portal Amazonas iOS app](https://apps.apple.com/br/app/portal-amazonas/id1549608609)
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Nubank" src="https://media-exp1.licdn.com/dms/image/C4E0BAQFigB0yzJzzeg/company-logo_200_200/0/1519865074333?e=2159024400&v=beta&t=uNCrA9MDuPXRrMLrqMwanYt7MVklKa3-7R3IAeLSRlQ"/>](https://perfectflight.com.br/)
+[<img align="left" height="94px" width="94px" alt="Perfect Flight" src="https://media-exp1.licdn.com/dms/image/C4E0BAQFigB0yzJzzeg/company-logo_200_200/0/1519865074333?e=2159024400&v=beta&t=uNCrA9MDuPXRrMLrqMwanYt7MVklKa3-7R3IAeLSRlQ"/>](https://perfectflight.com.br/)
 
-** Systems Analyst (Jr.)* \
+**Systems Analyst (Jr.)** \
 [**Perfect Flight**](https://perfectflight.com.br/) • Full-time \
 Languages & Technologies: `MySQL`, `PHP`,`HTML5`, `CSS3`\
 Featured Projects: [Platform](https://perfectflight.com.br/)
