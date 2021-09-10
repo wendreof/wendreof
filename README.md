@@ -31,7 +31,7 @@
 ## :briefcase: Work Experience
 In the overview below you'll find my most recent work experiences:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://portal.credisan.com.br/wp-content/uploads/2019/07/logo_credisan-03.png"/>](https://www.spacex.com/)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://portal.credisan.com.br/wp-content/uploads/2019/07/logo_credisan-03.png"/>](https://portal.credisan.com.br/)
 
 **Information Technology Analyst | Software Developer** \
 [**Credisan Cooperativa de Crédito**](https://portal.credisan.com.br/) • Full-time \
@@ -55,8 +55,6 @@ Languages & Technologies: `MySQL`, `PHP`,`HTML5`, `CSS3`\
 Featured Projects: [Platform](https://perfectflight.com.br/)
 <br/>
 <br/>
-
-Please find me on [LinkedIn](https://www.linkedin.com/in/coloque-aqui-seu-username/) for a more detailed description of my full work experience, and education.
 
 ## 🚀 I've worked with
  
