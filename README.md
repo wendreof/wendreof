@@ -25,17 +25,16 @@
 <img src="https://badges.pufler.dev/created/wendreof/wendreof" alt="Created" />
 </div>
 
-
-<!-- -->
-
 ## :briefcase: Work Experience
 In the overview below you'll find my most recent work experiences:
 
-[<img align="left" height="94px" width="94px" alt="Credisan Cooperativa de Crédito" src="https://is5-ssl.mzstatic.com/image/thumb/Purple125/v4/c6/d0/0a/c6d00afe-877d-ff4e-7ee4-0de2275ed223/AppIcon-1x_U007emarketing-0-7-0-0-P3-85-220.png/246x0w.webp"/>](https://portal.credisan.com.br/)
+[<img align="left" height="94px" width="94px" alt="Credisan Cooperativa de Crédito" src="images/logo.png"/>](https://portal.credisan.com.br/)
 
 **Information Technology Analyst | Software Developer** \
 [**Credisan Cooperativa de Crédito**](https://portal.credisan.com.br/) • Full-time \
 Languages & Technologies: `Dart/Flutter`, `C#`, `VB.NET`, `Firebird`, `MS SQL Server`\
+Tools: `Git`, `VS Code`, `Android Studio`, `Xcode`, `Visual Studio`, `Azure Data Studio`,  `SQL Management Studio`\
+Platforms: `Windows`, `Linux`,  `macOS`,  `Android`, `iOS`, `Web`\
 Featured Projects: [Android App](https://play.google.com/store/apps/details?id=br.com.credisan), [iOS App](https://apps.apple.com/br/app/credisan-pix/id1531922714), [Pix](https://portal.credisan.com.br/pix/), [(DDA) Débito Direto Autorizado](https://portal.credisan.com.br/pix/)
 <br/>
 
@@ -43,7 +42,9 @@ Featured Projects: [Android App](https://play.google.com/store/apps/details?id=b
 
 **iOS/Android Developer** \
 [**WM Digital Techs**](https://www.linkedin.com/company/wm-digital-techs) • Contract \
-Languages & Technologies: `Dart/Flutter`, `Java`, `Kotlin`\
+Tech Stack: `Dart/Flutter`, `Java`, `Kotlin`\
+Tools: `Git`, `VS Code`, `Android Studio`, `Xcode`\
+Platforms:  `Linux`,  `macOS`,  `Android`, `iOS`\
 Projects: [Portal Amazonas Android app](https://play.google.com/store/apps/details?id=br.com.sistemasamazonas), [Portal Amazonas iOS app](https://apps.apple.com/br/app/portal-amazonas/id1549608609)
 <br/>
 
@@ -51,35 +52,37 @@ Projects: [Portal Amazonas Android app](https://play.google.com/store/apps/detai
 
 **Systems Analyst (Jr.)** \
 [**Perfect Flight**](https://perfectflight.com.br/) • Full-time \
-Languages & Technologies: `MySQL`, `PHP`,`HTML5`, `CSS3`\
+Tech Stack: `MySQL`, `PHP`,`HTML5`, `CSS3`\
+Tools: `Git`, `VS Code`, `PHP Storm`, `WorkBench`\
+Plaforms: `Web` \
 Featured Projects: [Platform](https://perfectflight.com.br/)
 <br/>
 <br/>
 
+<!-- 
 ## 🚀 I've worked with
- 
   <a href="https://marketplace.visualstudio.com/items?itemName=wendreof.ufo">
-     <!-- Languages-->
     <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"/>
     <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
     <img src="https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white"/>
-    <!-- Frameworks--> <br>
+    <br>
      <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"/>
      <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
-    <!-- DB --> <br>
+    <br>
     <img src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>
     <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/> 
-    <!-- Code Editors/IDE's --> <br>
+    <br>
     <img src="https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/>
     <img src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
     <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white"/>
     <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
-    <!-- Platforms--> <br> 
+    <br> 
     <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
     <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"/>
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
     <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0"/>
+-->
    
 ## ⭐ Coding activity
 <p align="center">
