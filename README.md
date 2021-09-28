@@ -1,13 +1,15 @@
 <h2 align="center"> Hi, I'm Wendreo! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
  <br/> </h2> 
 
-<p align="center"> <samp>:brazil: Software Developer</p>
-  
-<p align="center">
- <a href="https://marketplace.visualstudio.com/items?itemName=wendreof.ufo">
+<p align="center"> <samp>:brazil: Software Developer
+ 
+ <p align="center">
+ <a href="https://marketplace.visualstudio.com/items?itemName=wendreof.ufo">  
   <img src="https://komarev.com/ghpvc/?username=wendreof" alt="Visits" />
  <img src="https://badges.pufler.dev/repos/wendreof" alt="Public repos" />
 <img src="https://badges.pufler.dev/gists/wendreof" alt="Gists" />
+<img src="https://github.com/wendreof/wendreof/actions/workflows/blog-post-workflow.yml/badge.svg">
+
   <img src="https://badges.pufler.dev/created/wendreof/wendreof" alt="Created" />
 </div><br>
 <a href="https://www.linkedin.com/in/wendreof/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
