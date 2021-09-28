@@ -4,6 +4,12 @@
 <p align="center"> <samp>:brazil: Software Developer</p>
   
 <p align="center">
+ <a href="https://marketplace.visualstudio.com/items?itemName=wendreof.ufo">
+  <img src="https://komarev.com/ghpvc/?username=wendreof" alt="Visits" />
+ <img src="https://badges.pufler.dev/repos/wendreof" alt="Public repos" />
+<img src="https://badges.pufler.dev/gists/wendreof" alt="Gists" />
+  <img src="https://badges.pufler.dev/created/wendreof/wendreof" alt="Created" /> <br>
+</div>
 <a href="https://www.linkedin.com/in/wendreof/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://instagram.com/wendreof"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://www.twitch.tv/wendreof"/><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/></a>
@@ -16,14 +22,6 @@
 </ul>
 
 > If you spend too much time thinking about a thing, you'll never get it done - Bruce Lee
-
-  <div align="center">
-  <a href="https://marketplace.visualstudio.com/items?itemName=wendreof.ufo">
-      <img src="https://komarev.com/ghpvc/?username=wendreof" alt="Visits" />
- <img src="https://badges.pufler.dev/repos/wendreof" alt="Public repos" />
-<img src="https://badges.pufler.dev/gists/wendreof" alt="Gists" />
-<img src="https://badges.pufler.dev/created/wendreof/wendreof" alt="Created" />
-</div>
 
 ## :briefcase: Work Experience
 In the overview below you'll find my most recent work experiences:
