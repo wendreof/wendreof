@@ -85,24 +85,11 @@ Featured Projects: [Website](https://perfectflight.com.br/)
    
 ## ⭐ Coding Activity
 <p align="center">
- [![wendreof's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wendreof)](https://github.com/wendreof/wendreof)
-
- <!-- <img width="300px" src="https://wakatime.com/share/@wendreof/53b9a21e-408b-4d18-9de5-8e0901a579bf.png">
-
- <!-- <img width="500px" src="https://wakatime.com/share/@wendreof/f0cb9e19-b0c1-4e69-a730-f715b8dea470.png">
-  
-    <img width="500px" src="https://wakatime.com/share/@wendreof/641463d5-b47f-48fb-82ab-b735dbc06164.png"> 
-   
-   <img width="500px" src="https://wakatime.com/share/@wendreof/b9488577-84c9-442d-964f-86c5b235c1bb.png">
-  -->
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=wendreof&custom_title=Coding%20Activity%20over%20Last%207%20days%20(Powered%20by%20Wakatime)">
 </p>
  
  ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Safely Build Assigned Flutter App with GitHub Actions](https://medium.com/@wendreof/how-to-safely-build-assigned-flutter-app-with-github-actions-8860b1b6eef6?source=rss-c5653a56fd0c------2)
-- [As Melhores Fontes para Programar](https://medium.com/@wendreof/as-melhores-fontes-para-programar-762dffe04e45?source=rss-c5653a56fd0c------2)
-- [Como Elaborar Repositórios Mais Profissionais](https://medium.com/@wendreof/como-elaborar-reposit%C3%B3rios-mais-profissionais-9aaa93373f39?source=rss-c5653a56fd0c------2)
-- [Funções — Clean Code: A Handbook of Agile Software](https://medium.com/@wendreof/fun%C3%A7%C3%B5es-clean-code-a-handbook-of-agile-software-305d2284a2b4?source=rss-c5653a56fd0c------2)
 <!-- BLOG-POST-LIST:END -->
 ____
 
