@@ -8,8 +8,8 @@
   <img src="https://komarev.com/ghpvc/?username=wendreof" alt="Visits" />
  <img src="https://badges.pufler.dev/repos/wendreof" alt="Public repos" />
 <img src="https://badges.pufler.dev/gists/wendreof" alt="Gists" />
-  <img src="https://badges.pufler.dev/created/wendreof/wendreof" alt="Created" /> <br>
-</div>
+  <img src="https://badges.pufler.dev/created/wendreof/wendreof" alt="Created" />
+</div><br>
 <a href="https://www.linkedin.com/in/wendreof/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://instagram.com/wendreof"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://www.twitch.tv/wendreof"/><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/></a>
@@ -82,8 +82,8 @@ Featured Projects: [Website](https://perfectflight.com.br/)
 -->
    
 ## ⭐ Coding Activity
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=wendreof&custom_title=Coding%20Activity%20over%20Last%207%20days%20(Powered%20by%20Wakatime)">
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=wendreof&custom_title=Languages%20over%20Last%207%20days%20(Powered%20by%20Wakatime)">
 </p>
  
  ### Blogs posts
