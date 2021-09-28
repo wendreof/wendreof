@@ -85,7 +85,9 @@ Featured Projects: [Website](https://perfectflight.com.br/)
    
 ## ⭐ Coding Activity
 <p align="center">
- <img width="300px" src="https://wakatime.com/share/@wendreof/53b9a21e-408b-4d18-9de5-8e0901a579bf.png">
+ [![wendreof's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wendreof)](https://github.com/wendreof/wendreof)
+
+ <!-- <img width="300px" src="https://wakatime.com/share/@wendreof/53b9a21e-408b-4d18-9de5-8e0901a579bf.png">
 
  <!-- <img width="500px" src="https://wakatime.com/share/@wendreof/f0cb9e19-b0c1-4e69-a730-f715b8dea470.png">
   
