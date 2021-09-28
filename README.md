@@ -88,6 +88,10 @@ Featured Projects: [Website](https://perfectflight.com.br/)
  
  ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Safely Build Assigned Flutter App with GitHub Actions](https://medium.com/@wendreof/how-to-safely-build-assigned-flutter-app-with-github-actions-8860b1b6eef6?source=rss-c5653a56fd0c------2)
+- [As Melhores Fontes para Programar](https://medium.com/@wendreof/as-melhores-fontes-para-programar-762dffe04e45?source=rss-c5653a56fd0c------2)
+- [Como Elaborar Repositórios Mais Profissionais](https://medium.com/@wendreof/como-elaborar-reposit%C3%B3rios-mais-profissionais-9aaa93373f39?source=rss-c5653a56fd0c------2)
+- [Funções — Clean Code: A Handbook of Agile Software](https://medium.com/@wendreof/fun%C3%A7%C3%B5es-clean-code-a-handbook-of-agile-software-305d2284a2b4?source=rss-c5653a56fd0c------2)
 <!-- BLOG-POST-LIST:END -->
 ____
 
