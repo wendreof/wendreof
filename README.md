@@ -50,7 +50,7 @@ Featured Projects: [Portal Amazonas Android app](https://play.google.com/store/a
 
 [<img align="left" height="94px" width="94px" alt="Perfect Flight" src="https://media-exp1.licdn.com/dms/image/C4E0BAQFigB0yzJzzeg/company-logo_200_200/0/1519865074333?e=2159024400&v=beta&t=uNCrA9MDuPXRrMLrqMwanYt7MVklKa3-7R3IAeLSRlQ"/>](https://perfectflight.com.br/)
 
-**Jr.Systems Analyst & Geo Analyst** \
+**Jr. Systems Analyst & Geo Analyst** \
 [**Perfect Flight**](https://perfectflight.com.br/) • Full-time \
 Tech Stack: `MySQL`, `PHP`,`HTML5`, `CSS3`\
 Tools: `Git`, `VS Code`, `PHP Storm`, `WorkBench`
