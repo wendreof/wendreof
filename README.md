@@ -90,7 +90,7 @@ Featured Projects: [Website](https://perfectflight.com.br/)
  
  ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [How Publish Flutter Web App on Heroku & GitHub Pages](https://medium.com/@wendreof/how-publish-flutter-web-app-on-heroku-github-pages-f4df95bdd385?source=rss-c5653a56fd0c------2)
+- [How Publish Flutter Web App on Heroku &amp; GitHub Pages](https://medium.com/@wendreof/how-publish-flutter-web-app-on-heroku-github-pages-f4df95bdd385?source=rss-c5653a56fd0c------2)
 - [How to Safely Build Assigned Flutter App with GitHub Actions](https://medium.com/@wendreof/how-to-safely-build-assigned-flutter-app-with-github-actions-8860b1b6eef6?source=rss-c5653a56fd0c------2)
 - [As Melhores Fontes para Programar](https://medium.com/@wendreof/as-melhores-fontes-para-programar-762dffe04e45?source=rss-c5653a56fd0c------2)
 - [Como Elaborar Repositórios Mais Profissionais](https://medium.com/@wendreof/como-elaborar-reposit%C3%B3rios-mais-profissionais-9aaa93373f39?source=rss-c5653a56fd0c------2)
