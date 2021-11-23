@@ -1,7 +1,7 @@
 <h2 align="center"> Hi, I'm Wendreo! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
  <br/> </h2> 
 
-<p align="center"> <samp>Software Developer
+<p align="center"> <samp>Backend Software Developer
  
  <p align="center">
  <a href="https://marketplace.visualstudio.com/items?itemName=wendreof.ufo">  
@@ -18,9 +18,8 @@
 <a href="https://medium.com/@wendreof"><img src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white"/></a>
 
 <ul>
-  <li>💻 Building financial apps such payment methods and stuff like that since 2019;</li>
+  <li>💻 Building financial apps such payment methods with .NET and Dart/Flutter and stuff like that since 2019;</li>
   <li>:mortar_board: Mobile apps development specialist;</li>
-  <li>:purple_heart: Lover of Dart/Flutter and its ecosystem.</li>
 </ul>
 
 > If you spend too much time thinking about a thing, you'll never get it done - Bruce Lee
