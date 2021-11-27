@@ -18,7 +18,7 @@
 <a href="https://medium.com/@wendreof"><img src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white"/></a>
 
 <ul>
-  <li>💻 Building financial apps such payment methods with .NET and Dart/Flutter and stuff like that since 2019;</li>
+  <li>💻 Building financial apps such payment methods with .NET/.NET Core and Dart/Flutter and stuff like that since 2019;</li>
   <li>:mortar_board: Mobile apps development specialist;</li>
 </ul>
 
@@ -31,7 +31,7 @@ In the overview below you'll find my most recent work experiences:
 
 **I.T. Analyst & Software Developer** \
 [**Credisan Cooperativa de Crédito**](https://portal.credisan.com.br/) • Full-time \
-Tech Stack: `Dart/Flutter`, `C#`, `VB.NET`, `Firebird`, `MS SQL Server`\
+Tech Stack: `Dart/Flutter`, `.NET, `.NET Core`, `Firebird`, `MS SQL Server`\
 Tools: `Git`, `VS Code`, `Android Studio`, `Xcode`, `Visual Studio`, `Azure Data Studio`,  `SQL Management Studio`
 <!-- Platforms: `Windows`, `Linux`,  `macOS`,  `Android`, `iOS`, `Web`\ -->
 Featured Projects: [Android App](https://play.google.com/store/apps/details?id=br.com.credisan), [iOS App](https://apps.apple.com/br/app/credisan-pix/id1531922714), [Pix](https://portal.credisan.com.br/pix/), [(DDA) Débito Direto Autorizado](https://portal.credisan.com.br/pix/)
