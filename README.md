@@ -86,7 +86,7 @@ Featured Projects: [Website](https://perfectflight.com.br/)
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=wendreof&custom_title=Languages%20over%20Last%207%20days%20(Powered%20by%20Wakatime)">
 </p>
  
- ### Latest Blog posts
+ ### :notebook_with_decorative_cover: Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Flutter + Git Hooks](https://blog.devgenius.io/flutter-git-hooks-19d8141176ac?source=rss-c5653a56fd0c------2)
 - [Updating Version Code for Play Store Using GitHub Actions](https://medium.com/@wendreof/updating-version-code-for-play-store-using-github-actions-d5ea0f07f6ff?source=rss-c5653a56fd0c------2)
