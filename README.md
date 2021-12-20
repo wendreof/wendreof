@@ -93,5 +93,8 @@ Featured Projects: [Website](https://perfectflight.com.br/)
 - [How Publish Flutter Web App on Heroku &amp; GitHub Pages](https://medium.com/@wendreof/how-publish-flutter-web-app-on-heroku-github-pages-f4df95bdd385?source=rss-c5653a56fd0c------2)
 - [How to Safely Build Assigned Flutter App with GitHub Actions](https://medium.com/@wendreof/how-to-safely-build-assigned-flutter-app-with-github-actions-8860b1b6eef6?source=rss-c5653a56fd0c------2)
 <!-- BLOG-POST-LIST:END -->
-____
 
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+____
