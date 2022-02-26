@@ -30,10 +30,10 @@
 
 [<img align="left" height="94px" width="94px" alt="Credisan Cooperativa de Crédito" src="images/logo.png"/>](https://portal.credisan.com.br/)
 
-**IT Analyst & Backend Software Developer** \
+**IT Analyst** \
 [**Credisan Cooperativa de Crédito**](https://portal.credisan.com.br/) • Full-time \
-Tech Stack: `Flutter`, `.NET`, `.NET Core`, `Firebird`, `MS SQL Server`\
-Tools: `Git`, `VS Code`, `Android Studio`, `Xcode`, `Visual Studio`, `Azure Data Studio`,  `SQL Management Studio`
+Tech Stack: `Flutter`, `.NET Framework`, `.NET`, `.NET Core`, `Firebird`, `SQL Server`\
+Tools: `Git`, `GitLab CI`, `VS Code`, `Android Studio`, `Xcode`, `Visual Studio`, `Azure Data Studio`,  `SQL Management Studio`
 <!-- Platforms: `Windows`, `Linux`,  `macOS`,  `Android`, `iOS`, `Web`\ -->
 Featured Projects: [Android App](https://play.google.com/store/apps/details?id=br.com.credisan), [iOS App](https://apps.apple.com/br/app/credisan-pix/id1531922714), [Pix](https://portal.credisan.com.br/pix/), [(DDA) Débito Direto Autorizado](https://portal.credisan.com.br/pix/)
 <br/>
