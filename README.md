@@ -90,7 +90,7 @@ Featured Projects: [Website](https://perfectflight.com.br/)
  
  ### :notebook_with_decorative_cover: Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Best Fonts for Development](https://medium.com/@wendreof/the-best-fonts-for-development-25b15a748409?source=rss-c5653a56fd0c------2)
+- [The Best Fonts for Development](https://blog.devgenius.io/the-best-fonts-for-development-25b15a748409?source=rss-c5653a56fd0c------2)
 - [Flutter + Git Hooks](https://blog.devgenius.io/flutter-git-hooks-19d8141176ac?source=rss-c5653a56fd0c------2)
 - [Updating Version Code for Play Store Using GitHub Actions](https://blog.devgenius.io/updating-version-code-for-play-store-using-github-actions-d5ea0f07f6ff?source=rss-c5653a56fd0c------2)
 - [How Publish Flutter Web App on Heroku &amp; GitHub Pages](https://medium.com/@wendreof/how-publish-flutter-web-app-on-heroku-github-pages-f4df95bdd385?source=rss-c5653a56fd0c------2)
