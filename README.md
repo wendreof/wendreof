@@ -4,7 +4,7 @@
 <p align="center"> <samp>Backend Software Developer
  
  <p align="center">
- <a href="https://marketplace.visualstudio.com/items?itemName=wendreof.ufo">  
+ <a href="https://www.linkedin.com/in/wendreof/">  
   <img src="https://komarev.com/ghpvc/?username=wendreof" alt="Visits" />
   <img src="https://badges.pufler.dev/repos/wendreof" alt="Public repos" />
   <img src="https://badges.pufler.dev/gists/wendreof" alt="Gists" /><br>
