@@ -18,6 +18,7 @@
 <a href="https://medium.com/@wendreof"><img src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white"/></a>
 
 <ul>
+  <li>Mobile Applications Development Specialist (IFSP - 2019) and Systems Analysis and Development Technologist (UNIFEOB 2018).</li>
   <li>Over five years of experience building software.</li>
   <li>Most recent projects were with payment methods like Pix and DDA.</li>
   <li>I've worked mostly focusing desktop and mobile platforms with Flutter, .NET and .NET Core.</li>
