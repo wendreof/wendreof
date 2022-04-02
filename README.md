@@ -20,8 +20,9 @@
 <ul>
   <li>5+ years of experience building software.</li>
   <li>Expertise with Git, Git Hooks, GitHub Actions, GitLab CI, Sonar, Windows Forms, ASP.NET, .NET Framework, .NET Core, .NET 6.0, Flutter, MobX, Slidy, Modular, both Google Play Store and Apple App Store publication from scratch, SQL Server, Firebird, MySQL, Docker and more.</li>
-  <li>Mobile Applications Development Specialist (IFSP 2019).</li>
-  <li>Systems Analysis and Development Technologist (UNIFEOB 2018).</li>
+  <li>Cloud Computing Specialist (SENAC, In progress).</li> 
+  <li>Mobile Applications Development Specialist (IFSP, 2019).</li>
+  <li>Systems Analysis and Development Technologist (UNIFEOB, 2018).</li>
 </ul>
 </p>
   
