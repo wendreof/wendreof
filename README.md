@@ -39,7 +39,7 @@
 
 **IT Analyst** \
 [**Credisan Cooperativa de Crédito**](https://portal.credisan.com.br/) • Full-time \
-Tech Stack: `C#`, `VB.NET`, `Flutter`, `.NET Framework`, `.NET Core`, `.NET 6`, `Firebird`, `SQL Server`\
+Tech Stack: `C#`, `VB.NET`, `Flutter`, `.NET Framework`, `.NET Core`, `.NET 6`, `Firebird`, `SQL Server`
 <!--Tools: `Git`, `GitLab CI`, `VS Code`, `Android Studio`, `Xcode`, `Visual Studio`, `Azure Data Studio`,  `SQL Management Studio`
  Platforms: `Windows`, `Linux`,  `macOS`,  `Android`, `iOS`, `Web`\ -->
 Featured Projects: [Android App](https://play.google.com/store/apps/details?id=br.com.credisan), [iOS App](https://apps.apple.com/br/app/credisan-pix/id1531922714), [Pix](https://portal.credisan.com.br/pix/), [(DDA) Débito Direto Autorizado](https://portal.credisan.com.br/pix/)
@@ -49,7 +49,7 @@ Featured Projects: [Android App](https://play.google.com/store/apps/details?id=b
 
 **iOS & Android Developer** \
 [**WM Digital Techs**](https://media-exp1.licdn.com/dms/image/C4D0BAQFqnOuFdRwoTQ/company-logo_200_200/0/1601140298524?e=1648080000&v=beta&t=ti-47QiDhlzhauxp2iDoXIBLi-mwBTB9G2i4aPLoA_s) • Contract \
-Tech Stack: `Flutter`, `Java`, `Kotlin`\
+Tech Stack: `Flutter`, `Java`, `Kotlin`
 <!--Tools: `Git`, `VS Code`, `Android Studio`, `Xcode`
  Platforms:  `Linux`,  `macOS`,  `Android`, `iOS`\ -->
 Featured Projects: [Portal Amazonas Android app](https://play.google.com/store/apps/details?id=br.com.sistemasamazonas), [Portal Amazonas iOS app](https://apps.apple.com/br/app/portal-amazonas/id1549608609)
@@ -59,7 +59,7 @@ Featured Projects: [Portal Amazonas Android app](https://play.google.com/store/a
 
 **Jr. Systems Analyst & Geo Analyst** \
 [**Perfect Flight**](https://perfectflight.com.br/) • Full-time \
-Tech Stack: `MySQL`, `PHP`,`HTML5`, `CSS3`\
+Tech Stack: `MySQL`, `PHP`,`HTML5`, `CSS3`
 <!-- Tools: `Git`, `VS Code`, `PHP Storm`, `WorkBench`
 Plaforms: `Web`, `Windows`\ -->
 Featured Projects: [Website](https://perfectflight.com.br/)
