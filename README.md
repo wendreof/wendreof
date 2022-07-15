@@ -1,7 +1,7 @@
 <h2 align="center"> Hi, I'm Wendreo! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
  <br/> </h2> 
 
-<p align="center"> <samp>Backend Software Developer
+<p align="center"> <samp>Software Developer
  
  <p align="center">
  <a href="https://www.linkedin.com/in/wendreof/">  
@@ -16,11 +16,16 @@
 <a href="https://medium.com/@wendreof"><img src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white"/></a>
 
 <ul>
-  <li>5+ years of experience building software.</li>
-  <li>Expertise with Git, DevOps (GitHub Actions, GitLab CI, Fastlane), Sonar, Windows Forms, C#, VB.NET .NET Framework, .NET Core, .NET 6.0, Flutter, MobX, Slidy, Modular, both Play Store/App Store publication from scratch, SQL Server, Firebird, MySQL, Docker and more.</li>
-  <li>Cloud Computing Specialist (SENAC, In progress).</li> 
-  <li>Mobile Applications Development Specialist (IFSP, 2019).</li>
-  <li>Systems Analysis and Development Technologist (UNIFEOB, 2018).</li>
+  <li>Over five years of experience building software.</li>
+  <br>Expertise with:
+  <li>DevOps: Docker, GitHub Actions, GitLab CI, Git Hooks, Nexus and Fastlane</li>
+  <li>Code Quality: SonarQube and CodeCov</li>
+  <li>Techs: Git, Flutter, C# (.NET Core/.NET 6.0, ASP.NET, Worker Service) and VB.NET (.NET Framework, Windows Forms)</li>
+  <li> Databases: SQL Server, Firebird and MySQL</li> 
+  <br>Education:
+  <li>Cloud Computing Specialist (2023)</li> 
+  <li>Mobile Applications Development Specialist (2019)</li>
+  <li>Systems Analysis and Development Technologist (2018)</li>
 </ul>
 </p>
   
