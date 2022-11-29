@@ -6,8 +6,6 @@
  <p align="center">
  <a href="https://www.linkedin.com/in/wendreof/">  
   <img src="https://komarev.com/ghpvc/?username=wendreof" alt="Visits" />
-  <img src="https://badges.pufler.dev/repos/wendreof" alt="Public repos" />
-  <img src="https://badges.pufler.dev/gists/wendreof" alt="Gists" /><br>
   <img src="https://github.com/wendreof/wendreof/actions/workflows/blog-post-workflow.yml/badge.svg">
   <IMG SRC="https://wakatime.com/badge/user/efbb501e-ab9f-4368-9ff4-f73f1d5a72eb.svg">
 </div><br><br>
@@ -16,16 +14,16 @@
 <a href="https://medium.com/@wendreof"><img src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white"/></a>
 
 <ul>
-  <li>Over five years of experience building software.</li>
+  <li>I'm a software developer with +6 years of experience building software.</li>
   <br>Expertise with:
-  <li>DevOps: Docker, GitHub Actions, GitLab CI, Git Hooks, Nexus and Fastlane</li>
-  <li>Code Quality: SonarQube and CodeCov</li>
-  <li>Techs: Git, Flutter, C# (.NET Core/.NET 6.0, ASP.NET, Worker Service) and VB.NET (.NET Framework, Windows Forms)</li>
-  <li> Databases: SQL Server, Firebird and MySQL</li> 
+  <li>DevOps: Fastlane, Pipeline CI/CD, Docker, Portainer, GitHub Actions, GitLab CI, Git Hooks and deployment;</li>
+  <li>Code Quality: Testing, SonarQube and CodeCov;</li>
+  <li>Techs: Git, Flutter, SQL, C# (.NET Core/.NET 6.0, Web API and Worker Service) and VB.NET (.NET Framework and Windows Forms) and Scrum;</li>
+  <li>Databases: SQL Server, Firebird, MySQL, SQLite and others.</li> 
   <br>Education:
-  <li>Cloud Computing Specialist (2023)</li> 
-  <li>Mobile Applications Development Specialist (2019)</li>
-  <li>Systems Analysis and Development Technologist (2018)</li>
+  <li>Cloud Computing Specialist - IFSP (2023);</li> 
+  <li>Mobile Applications Development Specialist - IFSP (2019);</li>
+  <li>Systems Analysis and Development Technologist - UNIFEOB (2018).</li>
 </ul>
 </p>
   
