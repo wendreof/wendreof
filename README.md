@@ -19,7 +19,7 @@
 
 ## ⭐ Coding Activity
 <p align="left">
-<a width="50px" href="https://wakatime.com"><img src="https://wakatime.com/share/@wendreof/107b5975-1a9d-4220-a8b5-3edb500d3a81.png"/></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@wendreof/107b5975-1a9d-4220-a8b5-3edb500d3a81.png" width="650px" /></a>
 </p>
 
 ## :briefcase: Most Recent Experiences
