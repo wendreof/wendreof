@@ -19,15 +19,22 @@
 
 ## ⭐ Coding Activity
 <p align="left">
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@wendreof/107b5975-1a9d-4220-a8b5-3edb500d3a81.png"/></a>
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@wendreof/3dcdfefb-b925-4ad1-bfa9-f715bce889ea.png"/></a>
+<a width="50px" href="https://wakatime.com"><img src="https://wakatime.com/share/@wendreof/107b5975-1a9d-4220-a8b5-3edb500d3a81.png"/></a>
 </p>
 
 ## :briefcase: Most Recent Experiences
 
+[<img align="left" height="94px" width="94px" alt="WebMotors" src="https://e3ba6e8732e83984.cdn.gocache.net/uploads/image/file/1300080/regular_332d4832f6525db120672fca7cb9a19a.png"/>](https://portal.credisan.com.br/)
+
+**BackEnd Developer** \
+[**WebMotors**](https://portal.credisan.com.br/) • Full-time \
+Tech Stack: `C#`, `Agile`, `CD/CD`, `Git`, `SQL`, `DevOps`, `Cloud`\
+Featured Projects: Cockpit
+<br/>
+
 [<img align="left" height="94px" width="94px" alt="Credisan Cooperativa de Crédito" src="images/logo.png"/>](https://portal.credisan.com.br/)
 
-**IT Analyst** \
+**Software Developer - BackEnd & Mobile** \
 [**Credisan Cooperativa de Crédito**](https://portal.credisan.com.br/) • Full-time \
 Tech Stack: `C#`, `VB.NET`, `Flutter`, `.NET Framework`, `.NET Core/.NET 6`, `Firebird`, `SQL Server`\
 Featured Projects: [Android App](https://play.google.com/store/apps/details?id=br.com.credisan), [iOS App](https://apps.apple.com/br/app/credisan-pix/id1531922714), [Pix](https://portal.credisan.com.br/pix/), [(DDA) Débito Direto Autorizado](https://portal.credisan.com.br/pix/)
