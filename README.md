@@ -18,29 +18,31 @@
 > If you spend too much time thinking about a thing, you'll never get it done - Bruce Lee
 
 ## ⭐ Coding Activity
+
 <p align="left">
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@wendreof/107b5975-1a9d-4220-a8b5-3edb500d3a81.png" width="500px" /></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@wendreof/67b9a508-554c-450b-973e-8e442f935dc6.png" width="550px" /></a>
 </p>
+
 
 ## :briefcase: Most Recent Experiences
 
 [<img align="left" height="94px" width="94px" alt="WebMotors" src="https://e3ba6e8732e83984.cdn.gocache.net/uploads/image/file/1300080/regular_332d4832f6525db120672fca7cb9a19a.png"/>](https://portal.credisan.com.br/)
-**.NET BackEnd Developer** \
-[**WebMotors** (Jul 2023 - Present)](https://www.webmotors.com.br/) \
+**.NET BackEnd Developer** (Jul 2023 - Present)\
+[**WebMotors**](https://www.webmotors.com.br/) \
 `.NET/C#`, `Microservices`, `Iac`, `Git`, `SQL`, `DevOps`, `AWS`\
 Featured Projects: Cockpit
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="Credisan Cooperativa de Crédito" src="images/logo.png"/>](https://portal.credisan.com.br/)
-**Software Developer - BackEnd & Mobile** \
-[**Credisan Cooperativa de Crédito** (Mar 2019 - Jul 2023)](https://portal.credisan.com.br/)\
+**Software Developer - BackEnd & Mobile** (Mar 2019 - Jul 2023)\
+[**Credisan Cooperativa de Crédito**](https://portal.credisan.com.br/)\
 `.NET/C#`, `.NET/VB.NET`, `Flutter`, `Android/iOS`, `SQL`\
 Featured Projects: [Android App](https://play.google.com/store/apps/details?id=br.com.credisan), [iOS App](https://apps.apple.com/br/app/credisan-pix/id1531922714), [Pix](https://portal.credisan.com.br/pix/), [(DDA) Débito Direto Autorizado](https://portal.credisan.com.br/pix/)
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="WM Digital Techs" src="https://logopond.com/logos/aaf8ee177781f3758233321ca729791a.png"/>](https://www.linkedin.com/company/wm-digital-techs)
-**Mobile Developer** \
-[**WM Digital Techs** (Jan 2019 - Sep 2021)](https://media-exp1.licdn.com/dms/image/C4D0BAQFqnOuFdRwoTQ/company-logo_200_200/0/1601140298524?e=1648080000&v=beta&t=ti-47QiDhlzhauxp2iDoXIBLi-mwBTB9G2i4aPLoA_s) \
+**Mobile Developer** (Jan 2019 - Sep 2021)\
+[**WM Digital Techs**](https://media-exp1.licdn.com/dms/image/C4D0BAQFqnOuFdRwoTQ/company-logo_200_200/0/1601140298524?e=1648080000&v=beta&t=ti-47QiDhlzhauxp2iDoXIBLi-mwBTB9G2i4aPLoA_s) \
 `Flutter`, `Java`, `Android`, `Kotlin` \
 Featured Projects: [Portal Amazonas Android app](https://play.google.com/store/apps/details?id=br.com.sistemasamazonas), [Portal Amazonas iOS app](https://apps.apple.com/br/app/portal-amazonas/id1549608609)
 <br/>
