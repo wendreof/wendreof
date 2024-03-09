@@ -22,10 +22,9 @@
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@wendreof/107b5975-1a9d-4220-a8b5-3edb500d3a81.png" width="500px" /></a>
 </p>
 
-## :briefcase: Most Recent Work Experiences
+## :briefcase: Most Recent Experiences
 
 [<img align="left" height="94px" width="94px" alt="WebMotors" src="https://e3ba6e8732e83984.cdn.gocache.net/uploads/image/file/1300080/regular_332d4832f6525db120672fca7cb9a19a.png"/>](https://portal.credisan.com.br/)
-
 **.NET BackEnd Developer** \
 [**WebMotors** (Jul 2023 - Present)](https://www.webmotors.com.br/) \
 `.NET/C#`, `Microservices`, `Iac`, `Git`, `SQL`, `DevOps`, `AWS`\
@@ -33,7 +32,6 @@ Featured Projects: Cockpit
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="Credisan Cooperativa de Crédito" src="images/logo.png"/>](https://portal.credisan.com.br/)
-
 **Software Developer - BackEnd & Mobile** \
 [**Credisan Cooperativa de Crédito** (Mar 2019 - Jul 2023)](https://portal.credisan.com.br/)\
 `.NET/C#`, `.NET/VB.NET`, `Flutter`, `Android/iOS`, `SQL`\
@@ -41,19 +39,10 @@ Featured Projects: [Android App](https://play.google.com/store/apps/details?id=b
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="WM Digital Techs" src="https://logopond.com/logos/aaf8ee177781f3758233321ca729791a.png"/>](https://www.linkedin.com/company/wm-digital-techs)
-
 **Mobile Developer** \
 [**WM Digital Techs** (Jan 2019 - Sep 2021)](https://media-exp1.licdn.com/dms/image/C4D0BAQFqnOuFdRwoTQ/company-logo_200_200/0/1601140298524?e=1648080000&v=beta&t=ti-47QiDhlzhauxp2iDoXIBLi-mwBTB9G2i4aPLoA_s) \
 `Flutter`, `Java`, `Android`, `Kotlin` \
 Featured Projects: [Portal Amazonas Android app](https://play.google.com/store/apps/details?id=br.com.sistemasamazonas), [Portal Amazonas iOS app](https://apps.apple.com/br/app/portal-amazonas/id1549608609)
-<br/>
-
-<!-- [<img align="left" height="94px" width="94px" alt="Perfect Flight" src="https://media-exp1.licdn.com/dms/image/C4E0BAQFigB0yzJzzeg/company-logo_200_200/0/1519865074333?e=2159024400&v=beta&t=uNCrA9MDuPXRrMLrqMwanYt7MVklKa3-7R3IAeLSRlQ"/>](https://perfectflight.com.br/)
-
-**Jr. Systems Analyst & Geo Analyst** \
-[**Perfect Flight**](https://perfectflight.com.br/) • Full-time \
-Tech Stack: `MySQL`, `PHP`,`HTML5`, `CSS3` \
-Featured Projects: [Website](https://perfectflight.com.br/)-->
 <br/>
    
  ### :notebook_with_decorative_cover: Latest Blog posts
