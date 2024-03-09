@@ -7,8 +7,7 @@
  <p align="center">
  <a href="https://www.linkedin.com/in/wendreof/">  
   <img src="https://komarev.com/ghpvc/?username=wendreof" alt="Visits" />
-  <img src="https://github.com/wendreof/wendreof/actions/workflows/blog-post-workflow.yml/badge.svg">
-  <IMG SRC="https://wakatime.com/badge/user/efbb501e-ab9f-4368-9ff4-f73f1d5a72eb.svg">
+  <img SRC="https://wakatime.com/badge/user/efbb501e-ab9f-4368-9ff4-f73f1d5a72eb.svg">
 </div><br><br>
 <a href="https://www.linkedin.com/in/wendreof/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://instagram.com/wendreof"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
