@@ -46,7 +46,8 @@ Featured Projects: [Android App](https://play.google.com/store/apps/details?id=b
 Featured Projects: [Portal Amazonas Android app](https://play.google.com/store/apps/details?id=br.com.sistemasamazonas), [Portal Amazonas iOS app](https://apps.apple.com/br/app/portal-amazonas/id1549608609)
 <br/>
    
- ### :notebook_with_decorative_cover: Latest Blog posts
+## :notebook_with_decorative_cover: Latest Blog posts
+
 <!-- BLOG-POST-LIST:START -->
 - [Automated .NET Code Formatting](https://medium.com/@wendreof/automated-net-code-formatting-5922aa66afd7?source=rss-c5653a56fd0c------2)
 - [The Best Fonts for Development](https://blog.devgenius.io/the-best-fonts-for-development-25b15a748409?source=rss-c5653a56fd0c------2)
