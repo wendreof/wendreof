@@ -49,10 +49,10 @@ Featured Projects: [Portal Amazonas Android app](https://play.google.com/store/a
 ## :notebook_with_decorative_cover: Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Motivos para trocar Newtonsoft.Json por System.Text.Json](https://medium.com/@wendreof/motivos-para-trocar-newtonsoft-json-por-system-text-json-35b2423219f5?source=rss-c5653a56fd0c------2)
 - [Automated .NET Code Formatting](https://medium.com/@wendreof/automated-net-code-formatting-5922aa66afd7?source=rss-c5653a56fd0c------2)
 - [The Best Fonts for Development](https://blog.devgenius.io/the-best-fonts-for-development-25b15a748409?source=rss-c5653a56fd0c------2)
 - [Flutter + Git Hooks](https://blog.devgenius.io/flutter-git-hooks-19d8141176ac?source=rss-c5653a56fd0c------2)
-- [Updating Version Code for Play Store Using GitHub Actions](https://blog.devgenius.io/updating-version-code-for-play-store-using-github-actions-d5ea0f07f6ff?source=rss-c5653a56fd0c------2)
 <!-- BLOG-POST-LIST:END -->
 
 <!--START_SECTION:activity-->
