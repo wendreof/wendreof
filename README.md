@@ -14,19 +14,11 @@
 <a href="https://medium.com/@wendreof"><img src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white"/></a>
 </p>
 
-
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
 
 > If you spend too much time thinking about a thing, you'll never get it done - Bruce Lee
-
-## ⭐ Coding Activity
-
-<p align="left">
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@wendreof/67b9a508-554c-450b-973e-8e442f935dc6.png" width="550px" /></a>
-</p>
-
 
 ## :briefcase: Most Recent Experiences
 
@@ -50,7 +42,7 @@ Featured Projects: [Android App](https://play.google.com/store/apps/details?id=b
 `Flutter`, `Java`, `Android`, `Kotlin` \
 Featured Projects: [Portal Amazonas Android app](https://play.google.com/store/apps/details?id=br.com.sistemasamazonas), [Portal Amazonas iOS app](https://apps.apple.com/br/app/portal-amazonas/id1549608609)
 <br/>
-   
+
 ## :notebook_with_decorative_cover: Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
