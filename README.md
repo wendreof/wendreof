@@ -14,10 +14,10 @@
 <a href="https://medium.com/@wendreof"><img src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white"/></a>
 </p>
 
-```md
+
 <!--START_SECTION:waka-->
+
 <!--END_SECTION:waka-->
-```
 
 > If you spend too much time thinking about a thing, you'll never get it done - Bruce Lee
 
