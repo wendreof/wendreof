@@ -13,7 +13,7 @@
 </h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C790%20hrs%2027%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C792%20hrs%2054%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.6%20million%20lines%20of%20code-blue)
 
@@ -44,13 +44,18 @@ Sunday                   312 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C#                       2 hrs 25 mins       ██████████████░░░░░░░░░░░   55.02 % 
+Binary                   1 hr 40 mins        ██████████░░░░░░░░░░░░░░░   38.00 % 
+XML                      7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
+YAML                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
+JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Visual Studio            4 hrs 18 mins       ████████████████████████░   97.47 % 
+VS Code                  6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  4 hrs 25 mins       █████████████████████████   100.00 % 
 ```
 
 **Timeline**
