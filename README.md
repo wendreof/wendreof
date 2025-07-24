@@ -44,14 +44,13 @@ Sunday                   312 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-JSON                     0 secs              █████████████████░░░░░░░░   66.53 % 
-XML                      0 secs              ████████░░░░░░░░░░░░░░░░░   33.47 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Visual Studio            0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **Timeline**
