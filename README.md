@@ -13,42 +13,6 @@
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.63%20million%20lines%20of%20code-blue?style=flat)
 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                732 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
-🌆 Daytime                875 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
-🌃 Evening                4114 commits        █████████████░░░░░░░░░░░░   51.46 % 
-🌙 Night                  2274 commits        ███████░░░░░░░░░░░░░░░░░░   28.44 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   1383 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.30 % 
-Tuesday                  1317 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.47 % 
-Wednesday                1029 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.87 % 
-Thursday                 1082 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
-Friday                   575 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.19 % 
-Saturday                 2290 commits        ███████░░░░░░░░░░░░░░░░░░   28.64 % 
-Sunday                   319 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Sao_Paulo
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/wendreof/wendreof/master/assets/bar_graph.png)
