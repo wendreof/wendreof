@@ -23,7 +23,7 @@ Working as software developer (or something like that) since 2017, way before th
   <img src="https://img.shields.io/badge/Microservices-FF6B6B?style=flat-square" alt="Microservices"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS"/>
   <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white" alt="DynamoDB"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/><br>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/DevOps-2496ED?style=flat-square" alt="DevOps"/>
@@ -47,7 +47,7 @@ Working as software developer (or something like that) since 2017, way before th
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android"/>
   <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=ios&logoColor=white" alt="iOS"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/><br>
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
   <img src="https://img.shields.io/badge/Firebird-E4432B?style=flat-square&logo=firebird&logoColor=white" alt="Firebird"/>
   <img src="https://img.shields.io/badge/Pix-32BCAD?style=flat-square&logo=pix&logoColor=white" alt="Pix"/>
@@ -70,17 +70,13 @@ Working as software developer (or something like that) since 2017, way before th
 
 ---
 
-## Certifications & Awards
+## Certifications
 
 <table>
 <tr>
-<td width="50%" align="center">
-  <img src="images/csharp-cert.jpeg" width="100%" alt="C# Certification"/><br/>
+<td width="50%" align="left">
+  <img src="images/csharp-cert.jpeg" width="50%" alt="C# Certification"/><br/>
   <sub><b>C# Certification</b></sub>
-</td>
-<td width="50%" align="center">
-  <img src="images/legacy-award.jpeg" width="100%" alt="Legacy Award"/><br/>
-  <sub><b>Legacy Award · Innovation 2025</b></sub>
 </td>
 </tr>
 </table>
