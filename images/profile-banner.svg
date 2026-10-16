@@ -1,0 +1,38 @@
+<svg width="1200" height="330" viewBox="0 0 1200 330" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="330" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#10152E"/>
+      <stop offset="0.55" stop-color="#24204D"/>
+      <stop offset="1" stop-color="#35205B"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="520" y1="80" x2="1090" y2="275" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#72E6D1"/>
+      <stop offset="0.52" stop-color="#7AA8FF"/>
+      <stop offset="1" stop-color="#D99BFF"/>
+    </linearGradient>
+    <linearGradient id="stroke" x1="760" y1="44" x2="1140" y2="292" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#72E6D1" stop-opacity="0.8"/>
+      <stop offset="1" stop-color="#C593FF" stop-opacity="0.35"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="330" rx="26" fill="url(#bg)"/>
+  <circle cx="1040" cy="18" r="190" fill="#9E70FF" fill-opacity="0.10"/>
+  <circle cx="1110" cy="330" r="250" fill="#51D9D0" fill-opacity="0.07"/>
+  <path d="M705 45H1128V285H705L765 165L705 45Z" stroke="url(#stroke)" stroke-opacity="0.55"/>
+  <path d="M770 82H1078V248H770L811 165L770 82Z" stroke="url(#stroke)" stroke-opacity="0.32"/>
+  <path d="M867 165L938 112L1009 165L938 218L867 165Z" stroke="url(#accent)" stroke-width="2"/>
+  <circle cx="938" cy="165" r="18" fill="url(#accent)"/>
+  <circle cx="867" cy="165" r="5" fill="#72E6D1"/>
+  <circle cx="1009" cy="165" r="5" fill="#D99BFF"/>
+  <circle cx="938" cy="112" r="5" fill="#7AA8FF"/>
+  <circle cx="938" cy="218" r="5" fill="#72E6D1"/>
+  <path d="M1050 105H1090M1050 121H1077M1050 209H1090M1050 225H1077" stroke="url(#accent)" stroke-width="3" stroke-linecap="round" opacity="0.72"/>
+  <circle cx="112" cy="74" r="3" fill="#72E6D1"/>
+  <circle cx="630" cy="254" r="3" fill="#D99BFF"/>
+  <text x="76" y="134" fill="#72E6D1" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" letter-spacing="4">SOFTWARE DEVELOPER · BRAZIL</text>
+  <text x="72" y="202" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="56" font-weight="700" letter-spacing="-1">Wendreo Fernandes</text>
+  <text x="76" y="242" fill="#D6D9F0" font-family="Segoe UI, Arial, sans-serif" font-size="19">Building reliable backend systems with .NET and AWS</text>
+  <rect x="76" y="272" width="70" height="4" rx="2" fill="#72E6D1"/>
+  <rect x="154" y="272" width="34" height="4" rx="2" fill="#7AA8FF"/>
+  <rect x="196" y="272" width="18" height="4" rx="2" fill="#D99BFF"/>
+</svg>

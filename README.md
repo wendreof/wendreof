@@ -1,92 +1,74 @@
 <div align="center">
 
-# Wendreo
+<img src="images/profile-banner.svg" alt="Wendreo Fernandes — software developer in Brazil, building reliable backend systems with .NET and AWS" width="100%" />
 
-Working as software developer (or something like that) since 2017, way before the A.I.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wendreof/)
+[![Medium](https://img.shields.io/badge/Medium-Read%20my%20articles-111111?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@wendreof)
+[![VS Code Theme](https://img.shields.io/badge/VS%20Code-Ufo%20Theme-7C5CFC?style=flat-square&logo=visualstudiocode&logoColor=white)](https://marketplace.visualstudio.com/items?itemName=wendreof.ufo)
 
 </div>
 
----
+## 👋 About me
 
-## Experience
+Backend-focused software developer building reliable products since 2016. I work at **Webmotors**, designing and improving .NET services and cloud-native systems on AWS. My background includes marketplace and fintech products, distributed systems, and mobile apps.
 
-<table>
-<tr>
-<td width="130" align="center" valign="middle">
-  <a href="https://www.webmotors.com.br/"><img src="images/logo1.png" width="90" alt="Webmotors"/></a><br/>
-  <sub><b>Webmotors</b></sub><br/>
-  <sub>São Paulo, Brazil</sub>
-</td>
-<td valign="top">
-  <b>Software Developer</b> · <sub>Jul 2023 – Present</sub><br/><br/>
-  <img src="https://img.shields.io/badge/.NET%2FC%23-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET/C#"/>
-  <img src="https://img.shields.io/badge/Microservices-FF6B6B?style=flat-square" alt="Microservices"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white" alt="DynamoDB"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/><br>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/DevOps-2496ED?style=flat-square" alt="DevOps"/>
-  <img src="https://img.shields.io/badge/IaC-7B42BC?style=flat-square" alt="IaC"/>
-  <img src="https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white" alt="Datadog"/>
-  <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" alt="Databricks"/>
-</td>
-</tr>
-</table>
+Previously at **Credisan**, I worked on Flutter apps and financial features including Pix, Open Finance, and DDA.
 
-<table>
-<tr>
-<td width="130" align="center" valign="middle">
-  <a href="https://portal.credisan.com.br/"><img src="images/logo2.png" width="90" alt="Credisan"/></a><br/>
-  <sub><b>Credisan</b></sub><br/>
-  <sub>São João da Boa Vista, Brazil</sub>
-</td>
-<td valign="top">
-  <b>Software Developer</b> · <sub>Mar 2019 – Jul 2023</sub><br/><br/>
-  <img src="https://img.shields.io/badge/.NET%2FC%23-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET/C#"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android"/>
-  <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=ios&logoColor=white" alt="iOS"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/><br>
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
-  <img src="https://img.shields.io/badge/Firebird-E4432B?style=flat-square&logo=firebird&logoColor=white" alt="Firebird"/>
-  <img src="https://img.shields.io/badge/Pix-32BCAD?style=flat-square&logo=pix&logoColor=white" alt="Pix"/>
-  <img src="https://img.shields.io/badge/Open_Finance-00A385?style=flat-square" alt="Open Finance"/>
-  <img src="https://img.shields.io/badge/Microservices-FF6B6B?style=flat-square" alt="Microservices"/>
-</td>
-</tr>
-</table>
-
----
-
-## Academic Formation
-
-| Degree | Institution | Period |
-|---|---|---|
-| Graduate Certificate · Database Administration | FAMEF | Jan 2025 – Aug 2025 |
-| Graduate Certificate · Cloud Computing | Senac SP | Mar 2022 – May 2023 |
-| Graduate Certificate · Mobile Applications Development | IFSP | 2018 – 2019 |
-| Technologist Degree · Systems Analysis and Development | UNIFEOB | 2016 – 2018 |
-
----
-
-## Certifications
-
-<table>
-<tr>
-<td width="50%" align="left">
-  <img src="images/csharp-cert.jpeg" width="50%" alt="C# Certification"/><br/>
-  <sub><b>C# Certification</b></sub>
-</td>
-</tr>
-</table>
-
----
+## ⚡ What I've worked with
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/wendreof/"><img src="https://img.shields.io/badge/LinkedIn-in%2Fwendreof-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://medium.com/@wendreof"><img src="https://img.shields.io/badge/Medium-%40wendreof-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
-<a href="https://marketplace.visualstudio.com/items?itemName=wendreof.ufo"><img src="https://img.shields.io/badge/VS_Code-Ufo_Theme-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code Marketplace"/></a>
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Cloud](https://img.shields.io/badge/Cloud-536DFE?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![NoSQL](https://img.shields.io/badge/NoSQL-47A248?style=for-the-badge)
+![Data](https://img.shields.io/badge/Data-FF3621?style=for-the-badge)
+![Monitoring](https://img.shields.io/badge/Monitoring-632CA6?style=for-the-badge)
+![Backend](https://img.shields.io/badge/Backend-246BCE?style=for-the-badge)
+![Microservices](https://img.shields.io/badge/Microservices-7C5CFC?style=for-the-badge)
+![CI%2FCD](https://img.shields.io/badge/CI%2FCD-D24939?style=for-the-badge)
+![Mobile](https://img.shields.io/badge/Mobile-02569B?style=for-the-badge)
 
 </div>
+
+## 🚀 Recent work
+
+- Architected and scaled Webmotors backend services supporting thousands of users, improving API performance and reliability.
+- Built the Web Store Wallet and contributed purchase, invoice discount, and balance exchange features.
+- Delivered Cockpit features, subscription workflows, Databricks visualizations, and CI/CD improvements.
+- Recognized with the **Legacy Award · Innovation Category** in Financial Year 2025.
+
+## 🎓 Education
+
+<table>
+<tr>
+<td width="50%" valign="top">
+  <b>🎓 Database Administration</b><br/>
+  <sub>Graduate Certificate · FAMEF · 2025</sub>
+</td>
+<td width="50%" valign="top">
+  <b>☁️ Cloud Computing</b><br/>
+  <sub>Graduate Certificate · Senac SP · 2022–2023</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+  <b>📱 Mobile Applications Development</b><br/>
+  <sub>Graduate Certificate · IFSP · 2018–2019</sub>
+</td>
+<td width="50%" valign="top">
+  <b>💻 Systems Analysis and Development</b><br/>
+  <sub>Technologist Degree · UNIFEOB · 2016–2018</sub>
+</td>
+</tr>
+</table>
+
+## 🧭 How I approach engineering
+
+<table>
+<tr>
+<td width="33%" align="center"><b>🛡️ Reliability</b><br/><sub>Build systems people can depend on.</sub></td>
+<td width="33%" align="center"><b>🧹 Maintainability</b><br/><sub>Keep solutions clear and easy to evolve.</sub></td>
+<td width="33%" align="center"><b>📈 Performance</b><br/><sub>Measure, find bottlenecks, and improve.</sub></td>
+</tr>
+</table>
